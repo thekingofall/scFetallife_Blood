@@ -1,0 +1,18 @@
+source_feature	source_group	raw_gate_formula_PBMC	raw_gate_formula_organ
+CXCR5-B	B	B|Single live cells x CXCR5-B|B	B|CD45+cells x CXCR5-B|B
+CXCR5+B	B	B|Single live cells x CXCR5+B|B	B|CD45+cells x CXCR5+B|B
+Immature NK	NK	NK|Single live cells x CD56brightNK|NK	NK|CD45+cells x CD56brightNK|NK
+Mature NK	NK	NK|Single live cells x CD56dimNK|NK	NK|CD45+cells x CD56dimNK|NK
+Central memory-like CD8+T	CD8+T	T|Single live cells x CD8+T|CD3+T x CCR7+CD45RA-|CD8+T	T|CD45+cells x CD8+T|CD3+T x CCR7+CD45RA-|CD8+T
+Naive CD8+T	CD8+T	T|Single live cells x CD8+T|CD3+T x CCR7+CD45RA+|CD8+T	T|CD45+cells x CD8+T|CD3+T x CCR7+CD45RA+|CD8+T
+Effective memory-like CD8+T	CD8+T	T|Single live cells x CD8+T|CD3+T x CCR7-CD45RA-|CD8+T	T|CD45+cells x CD8+T|CD3+T x CCR7-CD45RA-|CD8+T
+Terminal differentiated CD8+T	CD8+T	T|Single live cells x CD8+T|CD3+T x CCR7-CD45RA+|CD8+T	T|CD45+cells x CD8+T|CD3+T x CCR7-CD45RA+|CD8+T
+Central memory-like CD4+T	CD4+T	T|Single live cells x CD4+T|CD3+T x CCR7+CD45RA-|CD4+T	T|CD45+cells x CD4+T|CD3+T x CCR7+CD45RA-|CD4+T
+Naive CD4+T	CD4+T	T|Single live cells x CD4+T|CD3+T x CCR7+CD45RA+|CD4+T	T|CD45+cells x CD4+T|CD3+T x CCR7+CD45RA+|CD4+T
+Effective memory-like CD4+T	CD4+T	T|Single live cells x CD4+T|CD3+T x CCR7-CD45RA-|CD4+T	T|CD45+cells x CD4+T|CD3+T x CCR7-CD45RA-|CD4+T
+Terminal differentiated CD4+T	CD4+T	T|Single live cells x CD4+T|CD3+T x CCR7-CD45RA+|CD4+T	T|CD45+cells x CD4+T|CD3+T x CCR7-CD45RA+|CD4+T
+DNT	T	T|Single live cells x CD3+CD4-CD8-|CD3+T	T|CD45+cells x residual CD4-CD8-|CD3+T (organ raw export omits direct DNT row)
+LDP	T	T|Single live cells x CD3+CD4+CD8+|CD3+T	T|CD45+cells x CD3+CD4+CD8+|CD3+T
+EDP	extra-thymic lineage-negative	CD56-CD3-|Single live cells x CD19-CD56-CD3-|CD56-CD3- x residual CD4+CD8+|CD19-CD56-CD3-	CD56-CD3-|CD45+cells x CD19-CD56-CD3-|CD56-CD3- x CD4+CD8+|CD19-CD56-CD3-
+CD8+ISP	extra-thymic lineage-negative	CD56-CD3-|Single live cells x CD19-CD56-CD3-|CD56-CD3- x CD4-CD8+|CD19-CD56-CD3-	CD56-CD3-|CD45+cells x CD19-CD56-CD3-|CD56-CD3- x CD4-CD8+|CD19-CD56-CD3-
+CD4+ISP	extra-thymic lineage-negative	CD56-CD3-|Single live cells x CD19-CD56-CD3-|CD56-CD3- x CD8-CD4+|CD19-CD56-CD3-	CD56-CD3-|CD45+cells x CD19-CD56-CD3-|CD56-CD3- x CD8-CD4+|CD19-CD56-CD3-

@@ -1,0 +1,524 @@
+{
+  "MEGA_ER_markers": {
+    "Megakaryocyte Erythroid Precursors": [
+      "TESPA1",
+      "GATA2",
+      "FCER1A"
+    ],
+    "Early_ERY": [
+      "KLF1",
+      "APOE",
+      "FAM178B"
+    ],
+    "Mid_ERY": [
+      "BLVRB",
+      "CD36",
+      "OAT"
+    ],
+    "Late_ERY": [
+      "GYPA",
+      "GYPB",
+      "SLC4A1"
+    ],
+    "YS_ERY": [
+      "HBZ",
+      "HBE1"
+    ],
+    "Early_MK": [
+      "HBD",
+      "PF4"
+    ],
+    "late_MK": [
+      "ITGA2B",
+      "ITGB3",
+      "CLK1"
+    ],
+    "MACROPHAGE_ERY": [
+      "C1QA",
+      "CD163"
+    ],
+    "Proliferating": [
+      "TOP2A",
+      "MKI67"
+    ]
+  },
+  "Myeloid_markers": {
+    "Early Progenitor": [
+      "CD34",
+      "SPINK2",
+      "MLLT3"
+    ],
+    "Myeloid_progenitor": [
+      "PRSS57",
+      "PRTN3",
+      "AZU1"
+    ],
+    "Neutrophil lineage": [
+      "ELANE",
+      "DEFA4",
+      "LCN2",
+      "LTF",
+      "ORM1"
+    ],
+    "Monocyte_lineage": [
+      "CD52",
+      "S100A8",
+      "MS4A6A",
+      "CD14",
+      "CXCR4",
+      "CCR2",
+      "IL1B",
+      "CD300E"
+    ],
+    "DC progenitor": [
+      "ACY3",
+      "TIFAB",
+      "KIF17"
+    ],
+    "pDC": [
+      "CLEC4C",
+      "JCHAIN",
+      "IRF7"
+    ],
+    "DC2": [
+      "CLEC10A",
+      "CD1C"
+    ],
+    "DC1": [
+      "CLEC9A",
+      "BATF3"
+    ],
+    "MIGRATORY DC": [
+      "CCR7",
+      "LAMP3"
+    ],
+    "MAST": [
+      "CLC",
+      "KIT",
+      "TPSAB1"
+    ],
+    "Monocytes-MK like": [
+      "HBD",
+      "PF4"
+    ],
+    "Monocytes-CD177": [
+      "CD177"
+    ],
+    "Monocytes-NKG7": [
+      "NKG7"
+    ]
+  },
+  "Allmarker_genes_dict2": {
+    "Immue": "PTPRC",
+    "HSC": [
+      "CYTL1",
+      "GATA2",
+      "CD34",
+      "KIT"
+    ],
+    "T-cell": [
+      "CD3D",
+      "CD3E",
+      "CD3G",
+      "CD4",
+      "CD8A"
+    ],
+    "B-cell": [
+      "CD79A",
+      "CD79B",
+      "CD19",
+      "MS4A1"
+    ],
+    "Naive B cell": [
+      "CD19",
+      "MS4A1",
+      "IGHD",
+      "IGHM",
+      "IL4R",
+      "TCL1A"
+    ],
+    "Memory B cell": [
+      "CD27",
+      "CD38",
+      "IGHG1"
+    ],
+    "Plasma_B": [
+      "MZB1",
+      "SDC1",
+      "JCHAIN",
+      "XBP1"
+    ],
+    "NK-cell": [
+      "KLRF1",
+      "NCAM1",
+      "NCR1",
+      "GNLY",
+      "NKG7",
+      "FCGR3A"
+    ],
+    "NK1": [
+      "NCAM1",
+      "GNLY",
+      "NKG7"
+    ],
+    "NK2": [
+      "FCGR3A",
+      "KLRF1"
+    ],
+    "Myeloid": [
+      "LYZ",
+      "CD68",
+      "MS4A6A",
+      "CD1E",
+      "IL3RA",
+      "LAMP3"
+    ],
+    "Macrophages": [
+      "CSF1R",
+      "CD68",
+      "CD163",
+      "CD14"
+    ],
+    "Monocytes": [
+      "S100A8",
+      "S100A9",
+      "CD68",
+      "LYZ"
+    ],
+    "CD14_Mono": [
+      "CD14",
+      "LYZ"
+    ],
+    "CD16_Mono": [
+      "LYZ",
+      "FCGR3A"
+    ],
+    "Dendritic": [
+      "IL3RA",
+      "THBD",
+      "CD1C",
+      "CD68",
+      "CD83",
+      "FCER1A",
+      "CST3"
+    ],
+    "mDC": [
+      "CD1C",
+      "FCER1A"
+    ],
+    "pDC": [
+      "KLRD1",
+      "LILRA4",
+      "CLEC4C",
+      "IL3RA"
+    ],
+    "Neutrophil": [
+      "FCGR3B",
+      "CXCR2"
+    ],
+    "Mast": [
+      "TPSAB1",
+      "KIT",
+      "CPA3",
+      "ENPP3"
+    ],
+    "Platelets": [
+      "PPBP",
+      "GP9"
+    ],
+    "Erythrocyte": [
+      "HBA1",
+      "HBD",
+      "GYPA"
+    ]
+  },
+  "Allmarker_genes_dict3": {
+    "Immue": "PTPRC",
+    "Myeloid": [
+      "LYZ",
+      "CD68",
+      "MS4A6A",
+      "CD1E",
+      "IL3RA",
+      "LAMP3"
+    ],
+    "Macrophages": [
+      "CSF1R",
+      "CD68",
+      "CD163",
+      "CD14"
+    ],
+    "Monocytes": [
+      "S100A8",
+      "S100A9",
+      "CD68",
+      "LYZ"
+    ],
+    "CD14_Mono": [
+      "CD14",
+      "LYZ"
+    ],
+    "CD16_Mono": [
+      "LYZ",
+      "FCGR3A"
+    ],
+    "Dendritic": [
+      "IL3RA",
+      "THBD",
+      "CD1C",
+      "CD68",
+      "CD83",
+      "FCER1A",
+      "CST3"
+    ],
+    "mDC": [
+      "CD1C",
+      "FCER1A"
+    ],
+    "pDC": [
+      "KLRD1",
+      "LILRA4",
+      "CLEC4C",
+      "IL3RA"
+    ],
+    "Neutrophil": [
+      "FCGR3B",
+      "CXCR2"
+    ],
+    "Mast": [
+      "TPSAB1",
+      "KIT",
+      "CPA3",
+      "ENPP3"
+    ],
+    "Platelets": [
+      "PPBP",
+      "GP9"
+    ],
+    "Erythrocyte": [
+      "HBA1",
+      "HBD",
+      "GYPA"
+    ]
+  },
+  "Tcell_markers": {
+    "DN(early)": [
+      "IGLL1",
+      "ST18"
+    ],
+    "DN(P)": [
+      "TRGC2",
+      "TRDC",
+      "HIVEP3"
+    ],
+    "DN(Q)": [
+      "RAG1",
+      "RAG2",
+      "TP53INP1",
+      "PTCRA",
+      "RGPD3"
+    ],
+    "DP(P)": [
+      "SMPD3"
+    ],
+    "DP(Q)": [
+      "AQP3",
+      "RORC"
+    ],
+    "abT(entry)": [
+      "CCR9",
+      "SATB1",
+      "TOX2"
+    ],
+    "MATURE_T": [
+      "CCR7",
+      "CD5",
+      "CD27",
+      "CD8A",
+      "CD8B",
+      "CD4"
+    ],
+    "Treg": [
+      "FOXP3",
+      "CTLA4"
+    ],
+    "CD8aa": [
+      "PDCD1",
+      "GNG4",
+      "ZNF683"
+    ],
+    "innate": [
+      "KLRB1",
+      "ZBTB16"
+    ],
+    "TYPE_3_INNATE_T": [
+      "CD40LG",
+      "RORC",
+      "CCR6",
+      "ANXA1"
+    ],
+    "ILC3": [
+      "RORC",
+      "IL1R1",
+      "IL23R",
+      "KIT"
+    ],
+    "ILC2": [
+      "PTGDR2",
+      "HPGDS",
+      "GATA3"
+    ],
+    "TYPE_1_INNATE_T": [
+      "NKG7",
+      "EOMES",
+      "TBX21",
+      "IFNG-AS1"
+    ],
+    "NK": [
+      "KLRD1",
+      "KLRF1",
+      "NKG7",
+      "NCAM1"
+    ],
+    "TRDV1": [
+      "TRDV1",
+      "TRGC1",
+      "TRGC2",
+      "TRGV9"
+    ],
+    "TRDV2": [
+      "TRDV2",
+      "TRGC1",
+      "TRGC2",
+      "TRGV9"
+    ],
+    "CYCLING": [
+      "MKI67"
+    ]
+  },
+  "Bcell_type_genes": {
+    "HSC_MPP": [
+      "CLEC9A",
+      "CD34",
+      "SPINK2",
+      "KIT",
+      "FLT3"
+    ],
+    "CMP": [
+      "CD34",
+      "SPINK2",
+      "MPO",
+      "CSF1R",
+      "KIT",
+      "FLT3"
+    ],
+    "ELP": [
+      "CD34",
+      "SPINK2",
+      "IL7R",
+      "KIT",
+      "FLT3"
+    ],
+    "PRE PRO B CELL": [
+      "FLT3",
+      "CD19",
+      "VPREB1",
+      "RAG1",
+      "MS4A1"
+    ],
+    "PRO B CELL": [
+      "CD19",
+      "VPREB1",
+      "MME",
+      "CDC45",
+      "DHFR",
+      "MKI67",
+      "RAG1",
+      "DNTT",
+      "CD24",
+      "MME",
+      "IDH2"
+    ],
+    "LATE PRO B CELL": [
+      "CD19",
+      "VPREB1",
+      "MME",
+      "DHFR",
+      "MKI67",
+      "RAG1",
+      "DNTT",
+      "CD24",
+      "MME"
+    ],
+    "PRO TO PRE B CELL": [
+      "CD19",
+      "VPREB1",
+      "MME",
+      "CDC45",
+      "DHFR",
+      "MKI67",
+      "MS4A1",
+      "CD24",
+      "MME",
+      "IDH2"
+    ],
+    "LARGE PRE B CELL": [
+      "CD19",
+      "VPREB1",
+      "MME",
+      "CDC45",
+      "DHFR",
+      "MKI67",
+      "RAG1",
+      "CD24",
+      "TNFRSF17",
+      "MME"
+    ],
+    "SMALL PRE B CELL": [
+      "CD19",
+      "VPREB1",
+      "RAG1",
+      "CD24",
+      "TNFRSF17",
+      "MME"
+    ],
+    "IMMATURE B CELL": [
+      "CD19",
+      "MS4A1",
+      "CD24",
+      "SPIB",
+      "CD40",
+      "FCER2"
+    ],
+    "MATURE B CELL": [
+      "CD19",
+      "MS4A1",
+      "CD24",
+      "CD40",
+      "FCER2"
+    ],
+    "CYCLING B/B1 CELL": [
+      "CD19",
+      "MKI67",
+      "CD27",
+      "MS4A1",
+      "CD24",
+      "CD5",
+      "SPN",
+      "CD40",
+      "FCER2"
+    ],
+    "PLASMA B CELL": [
+      "CD19",
+      "CD27",
+      "MS4A1",
+      "CD24",
+      "TNFRSF17",
+      "CD40",
+      "FCER2",
+      "JCHAIN",
+      "SDC1",
+      "CD38"
+    ]
+  }
+}

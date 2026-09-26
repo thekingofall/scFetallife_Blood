@@ -1,0 +1,5 @@
+resource	relative_path	role
+model	../../../../00_Global_Data/Shared_Inputs/Main_Figure_08/00_MOFA/Fetal_Immune_Atlas_MOFA.hdf5	Fitted model shared with Figure 8
+data_preparation	../../../../Main_Figure_08/00_MOFA_Analysis/01_Code/06_extract_factor_results.R	Extract the six strongest feature weights in each direction
+plotting_code	../01_Code	Feature-weight plots
+figure	../02_Figures	PDF and PNG outputs

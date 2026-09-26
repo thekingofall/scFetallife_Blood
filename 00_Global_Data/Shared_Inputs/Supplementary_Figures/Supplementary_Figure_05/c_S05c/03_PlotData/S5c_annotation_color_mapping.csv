@@ -1,0 +1,39 @@
+cell_type,plot_label,color,panel_usage,cord_mapping,fetal_mapping
+1_HSC_MPP,1  HSC/MPP,#393b79,S5c,predicted_cell_type,Last_cell_type_num
+2_MEP,2  MEP,#5254a3,S5c,predicted_cell_type,Last_cell_type_num
+3_MEMP,3  MEMP,#6b6ecf,S5c,predicted_cell_type,Last_cell_type_num
+4_Pro-B,4  Pro-B,#9c9ede,S5c,predicted_cell_type,Last_cell_type_num
+5_Large pre-B,5  Large pre-B,#637939,S5c,predicted_cell_type,Last_cell_type_num
+6_Small pre-B,6  Small pre-B,#8ca252,S5c,predicted_cell_type,Last_cell_type_num
+7_CXCR5- Naïve B,7  CXCR5- Naïve B,#b5cf6b,S5c,predicted_cell_type,Last_cell_type_num
+8_CXCR5+ Naïve B,8  CXCR5+ Naïve B,#cedb9c,S5c,predicted_cell_type,Last_cell_type_num
+9_DN(Q) T,9  DN(Q) T,#8c6d31,S5c,predicted_cell_type,Last_cell_type_num
+10_DP(P) T,10  DP(P) T,#bd9e39,S5c,predicted_cell_type,Last_cell_type_num
+12_Treg,12  Treg,#e7ba52,S5c,predicted_cell_type,Last_cell_type_num
+13_Cycling Treg,13  Cycling Treg,#e7cb94,S5c,predicted_cell_type,Last_cell_type_num
+14_Naïve CD4 T,14  Naïve CD4 T,#843c39,S5c,predicted_cell_type,Last_cell_type_num
+15_Naïve CD8 T,15  Naïve CD8 T,#ad494a,S5c,predicted_cell_type,Last_cell_type_num
+16_abT(entry),16  abT(entry),#d6616b,S5c,predicted_cell_type,Last_cell_type_num
+17_Tem,17  Tem-like cells,#e7969c,S5c,predicted_cell_type,Last_cell_type_num
+18_Th17like_INNATE_T,18  Th17-like Innate T,#7b4173,S5c,predicted_cell_type,Last_cell_type_num
+19_NK T,19  NKT,#a55194,S5c,predicted_cell_type,Last_cell_type_num
+20_Gamma Delta V1 T,20  Vδ1,#ce6dbd,S5c,predicted_cell_type,Last_cell_type_num
+21_Gamma Delta V2 T,21  Vδ2,#de9ed6,S5c,predicted_cell_type,Last_cell_type_num
+22_GNG4 +CD8aa+T,22  GNG4⁺CD8aa⁺ T,#3182bd,S5c,predicted_cell_type,Last_cell_type_num
+23_ILC2/3,23  ILC2/3,#6baed6,S5c,predicted_cell_type,Last_cell_type_num
+24_CX3CR1+ NK,24  CX3CR1+ NK,#9ecae1,S5c,predicted_cell_type,Last_cell_type_num
+25_CXCR6+ NK,25  CXCR6+ NK,#c6dbef,S5c,predicted_cell_type,Last_cell_type_num
+26_CD56highCD16low NK,26  CD56highCD16low NK,#e6550d,S5c,predicted_cell_type,Last_cell_type_num
+27_Myeloid-CD177,27  Myeloid–CD177,#fd8d3c,S5c,predicted_cell_type,Last_cell_type_num
+28_Classical Monocytes,28  Classical Monocytes,#fdae6b,S5c,predicted_cell_type,Last_cell_type_num
+29_CD14+PPBP+ Monocytes,29  CD14⁺PPBP⁺ Monocytes,#fdd0a2,S5c,predicted_cell_type,Last_cell_type_num
+30_Macrophages,30  Macrophages,#31a354,S5c,predicted_cell_type,Last_cell_type_num
+31_DC1,31  DC1,#74c476,S5c,predicted_cell_type,Last_cell_type_num
+32_DC2,32  DC2,#a1d99b,S5c,predicted_cell_type,Last_cell_type_num
+33_pDC,33  pDC,#c7e9c0,S5c,predicted_cell_type,Last_cell_type_num
+34_Megakaryocytes,34  Megakaryocytes,#756bb1,S5c,predicted_cell_type,Last_cell_type_num
+35_Early_ERY,35  Early ERY,#9e9ac8,S5c,predicted_cell_type,Last_cell_type_num
+36_Mid_ERY,36  Mid ERY,#bcbddc,S5c,predicted_cell_type,Last_cell_type_num
+37_Late_ERY,37  Late ERY,#dadaeb,S5c,predicted_cell_type,Last_cell_type_num
+38_Endothelial cells,38  Endothelial cells,#636363,S5c,predicted_cell_type,Last_cell_type_num
+39_Others,39  Others,#969696,S5c,predicted_cell_type,Last_cell_type_num

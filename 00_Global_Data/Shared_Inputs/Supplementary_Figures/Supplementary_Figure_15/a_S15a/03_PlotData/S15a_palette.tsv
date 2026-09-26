@@ -1,0 +1,12 @@
+legend_order	S15a_cell_type	hex	evidence
+1	CXCR5-B	#FF0000	Shared flow comparison palette
+2	CXCR5+B	#FF9B9B	Shared flow comparison palette
+3	Immature NK	#13C0DF	Shared flow comparison palette
+4	Mature NK	#077E97	Shared flow comparison palette
+5	CD8+ T	#FF6000	Shared flow comparison palette
+6	CD4+ T	#B856D7	Shared flow comparison palette
+7	DNT	#E8E800	Shared flow comparison palette
+8	CD4+ ISP	#CE0666	Modal solid color sampled from original S15a raster legend
+9	CD8+ ISP	#FA6494	Modal solid color sampled from original S15a raster legend
+10	DPT	#A2A200	Shared DPT palette
+11	Ungate	#8C8ED2	Shared residual/Others palette

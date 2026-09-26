@@ -1,0 +1,147 @@
+Last_cell_type	Main_Organ	Cell_lineage	count
+CD14+PPBP+ Monocytes	PBMC	MYELOID	739
+CD56highCD16low NK	Liver	NK	596
+CD56highCD16low NK	PBMC	NK	489
+CD56highCD16low NK	Spleen	NK	163
+CD56highCD16low NK	Thymus	NK	22
+CX3CR1+ NK	Liver	NK	598
+CX3CR1+ NK	PBMC	NK	11141
+CX3CR1+ NK	Spleen	NK	829
+CX3CR1+ NK	Thymus	NK	119
+CXCR5+ Naïve B	Liver	B_CELL	862
+CXCR5+ Naïve B	PBMC	B_CELL	15167
+CXCR5+ Naïve B	Spleen	B_CELL	9369
+CXCR5+ Naïve B	Thymus	B_CELL	210
+CXCR5- Naïve B	Liver	B_CELL	3319
+CXCR5- Naïve B	PBMC	B_CELL	4504
+CXCR5- Naïve B	Spleen	B_CELL	329
+CXCR5- Naïve B	Thymus	B_CELL	29
+CXCR6+ NK	Liver	NK	5128
+CXCR6+ NK	PBMC	NK	969
+CXCR6+ NK	Spleen	NK	1192
+CXCR6+ NK	Thymus	NK	102
+Classical Monocytes	Liver	MYELOID	897
+Classical Monocytes	PBMC	MYELOID	28439
+Classical Monocytes	Spleen	MYELOID	232
+Classical Monocytes	Thymus	MYELOID	88
+Cycling Treg	PBMC	T/ILC	36
+Cycling Treg	Thymus	T/ILC	26
+DC1	Liver	DC	50
+DC1	PBMC	DC	29
+DC1	Spleen	DC	57
+DC1	Thymus	DC	313
+DC2	Liver	DC	1848
+DC2	PBMC	DC	1213
+DC2	Spleen	DC	162
+DC2	Thymus	DC	105
+DN(Q) T	Liver	T/ILC	7
+DN(Q) T	PBMC	T/ILC	10
+DN(Q) T	Spleen	T/ILC	2
+DN(Q) T	Thymus	T/ILC	5391
+DP(P) T	Liver	T/ILC	156
+DP(P) T	PBMC	T/ILC	1
+DP(P) T	Spleen	T/ILC	1
+DP(P) T	Thymus	T/ILC	7961
+DP(Q) T	Thymus	T/ILC	4025
+Early_ERY	Liver	MK/ERY	2909
+Early_ERY	PBMC	MK/ERY	1618
+Early_ERY	Spleen	MK/ERY	96
+Early_ERY	Thymus	MK/ERY	22
+Endothelial cells	Liver	OTHERS	1124
+Endothelial cells	PBMC	OTHERS	8
+Endothelial cells	Spleen	OTHERS	2
+Endothelial cells	Thymus	OTHERS	8
+GNG4 +CD8aa+T	Liver	T/ILC	10
+GNG4 +CD8aa+T	PBMC	T/ILC	28
+GNG4 +CD8aa+T	Spleen	T/ILC	13
+GNG4 +CD8aa+T	Thymus	T/ILC	1034
+Gamma Delta V1 T	Liver	T/ILC	8
+Gamma Delta V1 T	PBMC	T/ILC	264
+Gamma Delta V1 T	Spleen	T/ILC	11
+Gamma Delta V1 T	Thymus	T/ILC	2
+Gamma Delta V2 T	Liver	T/ILC	140
+Gamma Delta V2 T	PBMC	T/ILC	954
+Gamma Delta V2 T	Spleen	T/ILC	545
+Gamma Delta V2 T	Thymus	T/ILC	164
+HSC_MPP	Liver	PRECURSOR	554
+HSC_MPP	PBMC	PRECURSOR	2545
+HSC_MPP	Spleen	PRECURSOR	42
+HSC_MPP	Thymus	PRECURSOR	24
+ILC2/3	Liver	T/ILC	315
+ILC2/3	PBMC	T/ILC	179
+ILC2/3	Spleen	T/ILC	69
+ILC2/3	Thymus	T/ILC	72
+Large pre-B	Liver	B_CELL	1029
+Large pre-B	PBMC	B_CELL	60
+Large pre-B	Spleen	B_CELL	7
+Large pre-B	Thymus	B_CELL	3
+Late_ERY	Liver	MK/ERY	125
+Late_ERY	PBMC	MK/ERY	25722
+Late_ERY	Spleen	MK/ERY	330
+Late_ERY	Thymus	MK/ERY	5
+MEMP	Liver	PRECURSOR	793
+MEMP	PBMC	PRECURSOR	1580
+MEMP	Spleen	PRECURSOR	112
+MEMP	Thymus	PRECURSOR	17
+MEP	Liver	PRECURSOR	165
+MEP	PBMC	PRECURSOR	939
+MEP	Spleen	PRECURSOR	25
+MEP	Thymus	PRECURSOR	2
+Macrophages	Liver	MYELOID	2176
+Macrophages	PBMC	MYELOID	29
+Macrophages	Spleen	MYELOID	479
+Macrophages	Thymus	MYELOID	43
+Megakaryocytes	Liver	MK/ERY	154
+Megakaryocytes	PBMC	MK/ERY	3721
+Megakaryocytes	Spleen	MK/ERY	105
+Megakaryocytes	Thymus	MK/ERY	1
+Mid_ERY	Liver	MK/ERY	1702
+Mid_ERY	PBMC	MK/ERY	6427
+Mid_ERY	Spleen	MK/ERY	1052
+Mid_ERY	Thymus	MK/ERY	19
+Myeloid-CD177	Liver	MYELOID	26
+Myeloid-CD177	PBMC	MYELOID	1432
+Myeloid-CD177	Spleen	MYELOID	35
+Myeloid-CD177	Thymus	MYELOID	15
+NK T	Liver	T/ILC	110
+NK T	PBMC	T/ILC	775
+NK T	Spleen	T/ILC	500
+NK T	Thymus	T/ILC	147
+Naïve CD4 T	Liver	T/ILC	446
+Naïve CD4 T	PBMC	T/ILC	33990
+Naïve CD4 T	Spleen	T/ILC	844
+Naïve CD4 T	Thymus	T/ILC	181
+Naïve CD8 T	Liver	T/ILC	337
+Naïve CD8 T	PBMC	T/ILC	11500
+Naïve CD8 T	Spleen	T/ILC	887
+Naïve CD8 T	Thymus	T/ILC	254
+Others	Liver	OTHERS	244
+Others	PBMC	OTHERS	87
+Others	Spleen	OTHERS	5
+Others	Thymus	OTHERS	230
+Pro-B	Liver	B_CELL	669
+Pro-B	PBMC	B_CELL	146
+Pro-B	Spleen	B_CELL	22
+Pro-B	Thymus	B_CELL	11
+Small pre-B	Liver	B_CELL	155
+Small pre-B	PBMC	B_CELL	4
+Small pre-B	Spleen	B_CELL	1
+Tem	Liver	T/ILC	20
+Tem	PBMC	T/ILC	409
+Tem	Spleen	T/ILC	3
+Th17like_INNATE_T	Liver	T/ILC	21
+Th17like_INNATE_T	PBMC	T/ILC	1805
+Th17like_INNATE_T	Spleen	T/ILC	77
+Th17like_INNATE_T	Thymus	T/ILC	21
+Treg	Liver	T/ILC	137
+Treg	PBMC	T/ILC	3361
+Treg	Spleen	T/ILC	299
+Treg	Thymus	T/ILC	620
+abT(entry)	Liver	T/ILC	162
+abT(entry)	PBMC	T/ILC	1207
+abT(entry)	Spleen	T/ILC	455
+abT(entry)	Thymus	T/ILC	6486
+pDC	Liver	DC	102
+pDC	PBMC	DC	565
+pDC	Spleen	DC	56
+pDC	Thymus	DC	128

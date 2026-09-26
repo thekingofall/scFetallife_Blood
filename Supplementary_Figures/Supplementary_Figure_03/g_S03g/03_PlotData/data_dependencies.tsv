@@ -1,0 +1,6 @@
+resource	relative_path	role
+global_anndata	../../../../00_Global_Data/Fetal_Immune_Atlas.h5ad	Shared cell-level expression and metadata
+shared_plot_inputs	../../../../00_Global_Data/Shared_Inputs	Project-level inputs reused across manuscript panels
+analysis_code	../01_Code	Ordered panel analysis and rendering scripts
+released_figure	../02_Figures	Released manuscript panel
+cell_coordinates	../../../../00_Global_Data/Shared_Inputs/Supplementary_Figures/Supplementary_Figure_03/g_S03g/S03g_source.csv	Cell UMAP coordinates and annotations, including post-conception age

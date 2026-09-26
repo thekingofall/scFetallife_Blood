@@ -1,0 +1,6 @@
+resource	relative_path	role
+model	../../../00_Global_Data/Shared_Inputs/Main_Figure_08/00_MOFA/Fetal_Immune_Atlas_MOFA.hdf5	Fitted manuscript MOFA model
+model_inputs	../../../00_Global_Data/Shared_Inputs/Main_Figure_08/00_MOFA/MOFA_View_Inputs.rds	Normalized feature-by-sample matrices
+data_preparation	../../00_MOFA_Analysis/01_Code/06_extract_factor_results.R	Extract panel tables from the model
+plotting_code	../01_Code	Panel plotting script
+figure	../02_Figures	PDF and PNG outputs

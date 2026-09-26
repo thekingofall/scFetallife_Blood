@@ -1,0 +1,29 @@
+order	display_cell_type	model_cell_type
+1	HSC_MPP	HSC_MPP
+2	MEP	MEP
+3	MEMP	MEMP
+4	Pro-B	Pro-B
+5	CXCR5- Naïve B	CXCR5- Naïve B
+6	CXCR5+ Naïve B	CXCR5+ Naïve B
+7	Treg	Treg
+8	Naïve CD4 T	Naïve CD4 T
+9	Naïve CD8 T	Naïve CD8 T
+10	abT(entry)	abTentry
+11	Tem	Tem
+12	Th17like_INNATE_T	Th17like_INNATE_T
+13	NK T	NK T
+14	Gamma Delta V1 T	Gamma Delta V1 T
+15	Gamma Delta V2 T	Gamma Delta V2 T
+16	ILC2/3	ILC2/3
+17	CX3CR1+ NK	CX3CR1+ NK
+18	CXCR6+ NK	CXCR6+ NK
+19	CD56highCD16low NK	CD56highCD16low NK
+20	Myeloid-CD177	Myeloid-CD177
+21	Classical Monocytes	Classical Monocytes
+22	CD14+PPBP+ Monocytes	CD14+PPBP+ Monocytes
+23	DC2	DC2
+24	pDC	pDC
+25	Megakaryocytes	Megakaryocytes
+26	Early_ERY	Early_ERY
+27	Mid_ERY	Mid_ERY
+28	Late_ERY	Late_ERY

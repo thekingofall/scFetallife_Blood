@@ -1,0 +1,7 @@
+resource	relative_path	role
+sample_metadata	../../../00_Global_Data/Fetal_Immune_Atlas_Sample_Metadata.csv	Manuscript assay inclusion by sample
+global_anndata	../../../00_Global_Data/Fetal_Immune_Atlas.h5ad	Cell atlas for tissue cell counts
+multimodal_plot_data	M01b_multimodal_plot_data.csv	Sample positions and assay flags
+cell_count_summary	M01b_cell_counts.tsv	Tissue cell-count annotations
+analysis_code	../01_Code/01_plot_sample_overview_and_cell_counts.R	Plot the sample and assay overview
+released_figure	../02_Figures	Figure 1b PDF and PNG

@@ -1,0 +1,7 @@
+# Cell-contact signaling in fetal blood
+
+`01_Code/01_run_cellchat_for_28_cell_types.R` reads the normalized expression matrix and cell annotations from `00_Global_Data/Fetal_Immune_Atlas_Seurat.rds`. It selects the 28 PBMC cell types represented by more than 100 cells, divides samples into early and late stages using the age in `MainID`, and estimates cell-contact signaling. The specified CellChat version is 1.1.2. The fitted models `PBMC_Early_exact28_cellchat.rds` and `PBMC_Late_exact28_cellchat.rds` are written to `00_Global_Data/Shared_Inputs/Main_Figure_03/00_CellChat_Models`; communication tables and cell-type order are written to `02_Data/03_Plot_Ready`.
+
+`01_Code/02_summarize_interaction_strength_and_signaling.R` compares the two fitted networks. It writes the early-minus-late interaction matrix to Figure 3b and the selected incoming pathway changes to Figure 3c, under `00_Global_Data/Shared_Inputs/Main_Figure_03/b_M03b/03_PlotData` and `00_Global_Data/Shared_Inputs/Main_Figure_03/c_M03c/03_PlotData`.
+
+To fit the networks from expression data, run scripts 1 and 2 in [Figure 3 preprocessing](../00_Preprocess/README.md), then run `01_Code/01_run_cellchat_for_28_cell_types.R`. To calculate network summaries from the supplied fitted models, start with `01_Code/02_summarize_interaction_strength_and_signaling.R`. Panel plotting scripts read the corresponding plotting tables. Figure 3d reads the significant communication tables from the first script and selects the eleven ligand-receptor interactions shown in the manuscript.

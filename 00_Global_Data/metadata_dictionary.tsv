@@ -1,0 +1,24 @@
+field	scope	description
+Cellname	cell	Unique cell identifier; identical to obs index
+Name	cell	Original internal sample identifier
+MainID	cell	Adjusted manuscript sample identifier
+Main_Organ	cell	Tissue or compartment identity
+Gestational_Age_Weeks	cell	Gestational age in decimal weeks; distinct from post-conception weeks
+Post_Conception_Age_Weeks	cell	Post-conceptional age in weeks parsed from MainID; B17.4_P3 gives 17.4; missing for identifiers without encoded age
+TCRBCRlabel	cell	Linked immune-receptor modality label
+doublet_scores	cell	Doublet-detection score
+predicted_doublets	cell	Doublet prediction after filtering; all retained cells are False
+predicted_labels	cell	Automated cell-type prediction
+over_clustering	cell	Over-clustering assignment used during annotation
+majority_voting	cell	Consensus automated annotation
+conf_score	cell	Automated annotation confidence score
+n_genes	cell	Legacy detected-gene count
+n_genes_by_counts	cell	Detected genes derived from count data
+total_counts	cell	Per-cell total expression/count summary
+total_counts_mt	cell	Per-cell mitochondrial expression/count summary
+pct_counts_mt	cell	Percentage of mitochondrial expression/counts
+leiden	cell	Leiden cluster assignment
+Last_cell_type	cell	Final cell-type annotation
+Cell_lineage	cell	Broad cell-lineage annotation
+Last_cell_type_num	cell	Number-prefixed final cell-type label
+Last_cell_type_num2	cell	Numeric final cell-type code

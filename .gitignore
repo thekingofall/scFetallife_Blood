@@ -1,0 +1,14 @@
+/00_Global_Data/Fetal_Immune_Atlas.h5ad
+/00_Global_Data/Fetal_Immune_Atlas_BCR.h5ad
+/00_Global_Data/Fetal_Immune_Atlas_Flow_Data.rar
+/00_Global_Data/Fetal_Immune_Atlas_Flow_Proportions.xlsx
+/00_Global_Data/Fetal_Immune_Atlas_Olink_NPX.xlsx
+/00_Global_Data/Fetal_Immune_Atlas_Seurat.rds
+/00_Global_Data/Fetal_Immune_Atlas_TCR.h5ad
+/00_Global_Data/Flow_Data/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db

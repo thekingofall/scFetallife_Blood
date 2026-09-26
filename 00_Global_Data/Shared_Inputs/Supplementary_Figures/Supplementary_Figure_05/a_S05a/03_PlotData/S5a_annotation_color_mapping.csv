@@ -1,0 +1,40 @@
+cell_type,plot_label,color,panel_usage,cord_mapping
+1_HSC_MPP,1  HSC/MPP,#ffff00,S5a,Fetal submitted annotation
+2_MEP,2  MEP,#1ce6ff,S5a,Fetal submitted annotation
+3_MEMP,3  MEMP,#ff34ff,S5a,Fetal submitted annotation
+4_Pro-B,4  Pro-B,#ff4a46,S5a,Fetal submitted annotation
+5_Large pre-B,5  Large pre-B,#008941,S5a,Fetal submitted annotation
+6_Small pre-B,6  Small pre-B,#006fa6,S5a,Fetal submitted annotation
+7_CXCR5- Naïve B,7  CXCR5- Naïve B,#a30059,S5a,Fetal submitted annotation
+8_CXCR5+ Naïve B,8  CXCR5+ Naïve B,#ffdbe5,S5a,Fetal submitted annotation
+9_DN(Q) T,9  DN(Q) T,#7a4900,S5a,Fetal submitted annotation
+10_DP(P) T,10  DP(P) T,#0000a6,S5a,Fetal submitted annotation
+12_Treg,12  Treg,#63ffac,S5a,Fetal submitted annotation
+13_Cycling Treg,13  Cycling Treg,#b79762,S5a,Fetal submitted annotation
+14_Naïve CD4 T,14  Naïve CD4 T,#004d43,S5a,Fetal submitted annotation
+15_Naïve CD8 T,15  Naïve CD8 T,#8fb0ff,S5a,Fetal submitted annotation
+16_abT(entry),16  abT(entry),#997d87,S5a,Fetal submitted annotation
+17_Tem,17  Tem-like cells,#5a0007,S5a,Fetal submitted annotation
+18_Th17like_INNATE_T,18  Th17-like Innate T,#809693,S5a,Fetal submitted annotation
+19_NK T,19  NKT,#6a3a4c,S5a,Fetal submitted annotation
+20_Gamma Delta V1 T,20  Vδ1,#1b4400,S5a,Fetal submitted annotation
+21_Gamma Delta V2 T,21  Vδ2,#4fc601,S5a,Fetal submitted annotation
+22_GNG4 +CD8aa+T,22  GNG4⁺CD8aa⁺ T,#3b5dff,S5a,Fetal submitted annotation
+23_ILC2/3,23  ILC2/3,#4a3b53,S5a,Fetal submitted annotation
+24_CX3CR1+ NK,24  CX3CR1+ NK,#ff2f80,S5a,Fetal submitted annotation
+25_CXCR6+ NK,25  CXCR6+ NK,#61615a,S5a,Fetal submitted annotation
+26_CD56highCD16low NK,26  CD56highCD16low NK,#ba0900,S5a,Fetal submitted annotation
+27_Myeloid-CD177,27  Myeloid–CD177,#6b7900,S5a,Fetal submitted annotation
+28_Classical Monocytes,28  Classical Monocytes,#00c2a0,S5a,Fetal submitted annotation
+29_CD14+PPBP+ Monocytes,29  CD14⁺PPBP⁺ Monocytes,#ffaa92,S5a,Fetal submitted annotation
+30_Macrophages,30  Macrophages,#ff90c9,S5a,Fetal submitted annotation
+31_DC1,31  DC1,#b903aa,S5a,Fetal submitted annotation
+32_DC2,32  DC2,#d16100,S5a,Fetal submitted annotation
+33_pDC,33  pDC,#ddefff,S5a,Fetal submitted annotation
+34_Megakaryocytes,34  Megakaryocytes,#000035,S5a,Fetal submitted annotation
+35_Early_ERY,35  Early ERY,#7b4f4b,S5a,Fetal submitted annotation
+36_Mid_ERY,36  Mid ERY,#a1c299,S5a,Fetal submitted annotation
+37_Late_ERY,37  Late ERY,#300018,S5a,Fetal submitted annotation
+38_Endothelial cells,38  Endothelial cells,#0aa6d8,S5a,Fetal submitted annotation
+39_Others,39  Others,#013349,S5a,Fetal submitted annotation
+40_Cord,40  Cord,#00846f,S5a,Cord placeholder

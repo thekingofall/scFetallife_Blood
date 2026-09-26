@@ -1,0 +1,6 @@
+name	path	role	rows
+S11d_complete_cell_data	S11d_TCR_top15_complete_source_data.csv.gz	Complete cell-level source for the selected clonotypes	73
+S11d_plot_data	S11d_TCR_top15_plot_source_data.csv	Complete minimal plotting table	17
+S11d_by_cell_type	S11d_top15_clone_by_celltype.csv	Clonotype by cell-type counts	17
+S11d_by_sample_cell_type	S11d_top15_clone_by_sample_celltype.csv	Clonotype by sample and cell-type counts	17
+S11d_by_sample	S11d_top15_clone_by_sample.csv	Clonotype by sample totals	15

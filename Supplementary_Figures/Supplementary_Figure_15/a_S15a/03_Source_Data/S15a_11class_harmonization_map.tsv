@@ -1,0 +1,12 @@
+legend_order	S15a_cell_type	source_population_or_formula	aggregation	denominator	evidence
+1	CXCR5-B	CXCR5-B	identity	tissue-specific manuscript denominator	Original S15a legend + manuscript Source Data Fig. 6b + Table S5
+2	CXCR5+B	CXCR5+B	identity	tissue-specific manuscript denominator	Original S15a legend + manuscript Source Data Fig. 6b + Table S5
+3	Immature NK	Immature NK	identity	tissue-specific manuscript denominator	Original S15a legend + manuscript Source Data Fig. 6b + Table S5
+4	Mature NK	Mature NK	identity	tissue-specific manuscript denominator	Original S15a legend + manuscript Source Data Fig. 6b + Table S5
+5	CD8+ T	Central memory-like CD8+T + Naive CD8+T + Effective memory-like CD8+T + Terminal differentiated CD8+T	sum	tissue-specific manuscript denominator	Original S15a legend + manuscript Source Data Fig. 6b + Table S5
+6	CD4+ T	Central memory-like CD4+T + Naive CD4+T + Effective memory-like CD4+T + Terminal differentiated CD4+T	sum	tissue-specific manuscript denominator	Original S15a legend + manuscript Source Data Fig. 6b + Table S5
+7	DNT	DNT	identity	tissue-specific manuscript denominator	Original S15a legend + manuscript Source Data Fig. 6b + Table S5
+8	CD4+ ISP	CD4+ISP	identity	tissue-specific manuscript denominator	Original S15a legend + manuscript Source Data Fig. 6b + Table S5
+9	CD8+ ISP	CD8+ISP	identity	tissue-specific manuscript denominator	Original S15a legend + manuscript Source Data Fig. 6b + Table S5
+10	DPT	LDP + EDP	sum	tissue-specific manuscript denominator	Original S15a legend + manuscript Source Data Fig. 6b + Table S5
+11	Ungate	100 - sum(17 mutually exclusive source populations)	residual	same tissue-specific manuscript denominator	Original S15a/SFC residual named Ungate; Source Data values equal 100 minus source17 sum

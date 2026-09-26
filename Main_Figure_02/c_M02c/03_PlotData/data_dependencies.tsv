@@ -1,0 +1,8 @@
+resource	relative_path	role
+early_local_correlation	../../../00_Global_Data/Shared_Inputs/Main_Figure_02/c_M02c/early_local_correlation_z.csv.gz	Validated early-stage Hotspot local-correlation matrix
+late_local_correlation	../../../00_Global_Data/Shared_Inputs/Main_Figure_02/c_M02c/late_local_correlation_z.csv.gz	Validated late-stage Hotspot local-correlation matrix
+early_modules	../../../00_Global_Data/Shared_Inputs/Main_Figure_02/c_M02c/early_modules.csv	Early-stage Hotspot module assignments
+late_modules	../../../00_Global_Data/Shared_Inputs/Main_Figure_02/c_M02c/late_modules.csv	Late-stage Hotspot module assignments
+canonical_module_mapping	../03_Source_Data/M02c_fresh_to_canonical_module_mapping.csv	Validated stage-specific fresh-module merge into canonical M1-M7 biological modules
+analysis_code	../01_Code	Ordered panel scripts
+released_figure	../02_Figures	Released PNG and PDF files

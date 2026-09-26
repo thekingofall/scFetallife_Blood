@@ -1,0 +1,5 @@
+Organ	display_label	cell_count	source_relative	filter
+PBMC	Blood	162092	../../../00_Global_Data/Fetal_Immune_Atlas.h5ad	Main_Organ == PBMC
+Liver	Liver	27094	../../../00_Global_Data/Fetal_Immune_Atlas.h5ad	Main_Organ == Liver
+Thymus	Thymus	27900	../../../00_Global_Data/Fetal_Immune_Atlas.h5ad	Main_Organ == Thymus
+Spleen	Spleen	18408	../../../00_Global_Data/Fetal_Immune_Atlas.h5ad	Main_Organ == Spleen

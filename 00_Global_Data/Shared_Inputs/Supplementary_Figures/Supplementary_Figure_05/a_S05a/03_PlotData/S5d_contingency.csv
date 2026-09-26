@@ -1,0 +1,37 @@
+cell_type,Late,Cord
+1_HSC_MPP,684,99
+2_MEP,26,1
+3_MEMP,247,54
+4_Pro-B,17,7
+5_Large pre-B,3,0
+7_CXCR5- Naïve B,1523,13
+8_CXCR5+ Naïve B,8491,1223
+9_DN(Q) T,2,0
+12_Treg,995,397
+13_Cycling Treg,12,7
+14_Naïve CD4 T,19170,7122
+15_Naïve CD8 T,5349,2562
+16_abT(entry),515,0
+17_Tem,269,114
+18_Th17like_INNATE_T,216,61
+19_NK T,357,127
+20_Gamma Delta V1 T,226,58
+21_Gamma Delta V2 T,188,59
+22_GNG4 +CD8aa+T,5,0
+23_ILC2/3,80,58
+24_CX3CR1+ NK,6204,4140
+25_CXCR6+ NK,92,19
+26_CD56highCD16low NK,162,2
+27_Myeloid-CD177,1067,72
+28_Classical Monocytes,21274,5159
+29_CD14+PPBP+ Monocytes,470,24
+30_Macrophages,2,0
+31_DC1,21,1
+32_DC2,449,76
+33_pDC,303,60
+34_Megakaryocytes,651,366
+35_Early_ERY,328,10
+36_Mid_ERY,1288,47
+37_Late_ERY,1617,192
+38_Endothelial cells,7,0
+39_Others,74,0

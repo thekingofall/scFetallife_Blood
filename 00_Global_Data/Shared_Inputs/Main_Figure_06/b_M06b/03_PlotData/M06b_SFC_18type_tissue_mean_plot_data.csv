@@ -1,0 +1,73 @@
+Tissue,Cell_type,Percentage,MainID
+PBMC,CXCR5- B,1.7552631578947369,PBMC
+PBMC,CXCR5+ B,2.517543789473684,PBMC
+PBMC,Immature NK,0.9923157894736842,PBMC
+PBMC,Mature NK,6.732453684210526,PBMC
+PBMC,Naïve CD8+ T,9.061578947368421,PBMC
+PBMC,Central memory-like CD8+ T,0.8361052631578948,PBMC
+PBMC,Effective memory-like CD8+ T,0.19228942105263158,PBMC
+PBMC,Terminal differentiated CD8+ T,0.2732631578947368,PBMC
+PBMC,Naïve CD4+ T,31.63649,PBMC
+PBMC,Central memory-like CD4+ T,4.972105263157895,PBMC
+PBMC,Effective memory-like CD4+ T,0.9982105263157894,PBMC
+PBMC,Terminal differentiated CD4+ T,0.44415789473684214,PBMC
+PBMC,DNT,2.7267894736842107,PBMC
+PBMC,LDP,0.21037684210526317,PBMC
+PBMC,EDP,0.003893105263157895,PBMC
+PBMC,CD8+ ISP,0.2825263157894737,PBMC
+PBMC,CD4+ ISP,0.5299636842105263,PBMC
+PBMC,Ungate,35.83467368421053,PBMC
+Liver,CXCR5- B,17.33,Liver
+Liver,CXCR5+ B,4.986,Liver
+Liver,Immature NK,17.830000000000002,Liver
+Liver,Mature NK,2.698,Liver
+Liver,Naïve CD8+ T,0.7448,Liver
+Liver,Central memory-like CD8+ T,0.06280000000000001,Liver
+Liver,Effective memory-like CD8+ T,0.0822,Liver
+Liver,Terminal differentiated CD8+ T,0.1976,Liver
+Liver,Naïve CD4+ T,1.328,Liver
+Liver,Central memory-like CD4+ T,0.1664,Liver
+Liver,Effective memory-like CD4+ T,0.20579999999999998,Liver
+Liver,Terminal differentiated CD4+ T,0.1392,Liver
+Liver,DNT,0.2356,Liver
+Liver,LDP,0.0422,Liver
+Liver,EDP,0.024968,Liver
+Liver,CD8+ ISP,0.21459999999999999,Liver
+Liver,CD4+ ISP,2.374,Liver
+Liver,Ungate,51.337832,Liver
+Thymus,CXCR5- B,0.306,Thymus
+Thymus,CXCR5+ B,0.3328,Thymus
+Thymus,Immature NK,0.5548,Thymus
+Thymus,Mature NK,0.1592,Thymus
+Thymus,Naïve CD8+ T,3.108,Thymus
+Thymus,Central memory-like CD8+ T,3.628,Thymus
+Thymus,Effective memory-like CD8+ T,3.728,Thymus
+Thymus,Terminal differentiated CD8+ T,0.802,Thymus
+Thymus,Naïve CD4+ T,5.396,Thymus
+Thymus,Central memory-like CD4+ T,9.53,Thymus
+Thymus,Effective memory-like CD4+ T,8.916,Thymus
+Thymus,Terminal differentiated CD4+ T,0.4862,Thymus
+Thymus,DNT,9.826,Thymus
+Thymus,LDP,8.914,Thymus
+Thymus,EDP,20.17,Thymus
+Thymus,CD8+ ISP,2.254,Thymus
+Thymus,CD4+ ISP,8.2,Thymus
+Thymus,Ungate,13.688999999999998,Thymus
+Spleen,CXCR5- B,2.5375,Spleen
+Spleen,CXCR5+ B,21.275000000000002,Spleen
+Spleen,Immature NK,13.925,Spleen
+Spleen,Mature NK,2.2575,Spleen
+Spleen,Naïve CD8+ T,8.49,Spleen
+Spleen,Central memory-like CD8+ T,1.2650000000000001,Spleen
+Spleen,Effective memory-like CD8+ T,1.745,Spleen
+Spleen,Terminal differentiated CD8+ T,1.735,Spleen
+Spleen,Naïve CD4+ T,12.805,Spleen
+Spleen,Central memory-like CD4+ T,4.915,Spleen
+Spleen,Effective memory-like CD4+ T,3.5149999999999997,Spleen
+Spleen,Terminal differentiated CD4+ T,0.9125,Spleen
+Spleen,DNT,2.535,Spleen
+Spleen,LDP,0.45,Spleen
+Spleen,EDP,0.009465,Spleen
+Spleen,CD8+ ISP,0.7375,Spleen
+Spleen,CD4+ ISP,1.165,Spleen
+Spleen,Ungate,19.725535,Spleen

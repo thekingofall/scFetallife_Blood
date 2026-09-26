@@ -1,0 +1,257 @@
+"group","display_title","labels","x","y","Count","size_class","point_size_mm","label_selected","label_rule"
+"PBMC_Early","PBMC
+(early)","abTentry",7.82699711158712,3.34234816002717,379,"500",4,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","CD14+PPBP+ Monocytes",15.3602349554815,15.3726880424813,978,"1000",10,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","CD56highCD16low NK",6.44822637327967,10.7031650608552,568,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"PBMC_Early","PBMC
+(early)","Classical Monocytes",9.63395025214644,9.88081490391144,725,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","CX3CR1+ NK",14.9479836824991,36.3824689785283,949,"1000",10,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"PBMC_Early","PBMC
+(early)","CXCR5- Naïve B",12.0276108192891,5.11713606662506,477,"500",4,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","CXCR5+ Naïve B",14.6580375653654,6.63362330427833,561,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","CXCR6+ NK",13.791526681074,35.6015166892139,832,"1000",10,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"PBMC_Early","PBMC
+(early)","Cycling Treg",8.42674632818428,5.1443066527176,576,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","DC1",14.7409549904104,7.57381039186777,1005,"1000",10,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","DC2",15.7699342037977,14.4891094558161,1118,"1000",10,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","DNQ T",10.4978331700724,9.47474053030053,677,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","DPP T",13.8379681246512,10.1006799695446,596,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"PBMC_Early","PBMC
+(early)","Early_ERY",0.0321567445734854,0.0254244121938518,27,"250",1,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Endothelial cells",19.1841686687856,9.83059982496227,465,"500",4,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Gamma Delta V1 T",12.310546055859,6.66011649951911,567,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Gamma Delta V2 T",13.2710455276939,10.2123299403963,647,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","GNG4 +CD8aa+T",7.56807075094713,9.30553116359713,731,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","HSC_MPP",11.9679155988432,9.01425516940884,680,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","ILC2/3",11.6072602388299,11.1990021197221,535,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Large pre-B",10.9104698286396,5.60923094856574,572,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Late_ERY",0.0725765942079175,0,10,"250",1,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Macrophages",14.6079560082768,19.911124490088,1006,"1000",10,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Megakaryocytes",11.8892685833826,5.46728394833313,405,"500",4,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","MEMP",5.38252415953885,3.72910192902285,551,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","MEP",6.26635775669083,3.450553008622,448,"500",4,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Mid_ERY",0,0.178816498644156,19,"250",1,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Myeloid-CD177",4.68420846986837,4.30883787528909,400,"500",4,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Naïve CD4 T",11.7854106580263,7.13547111119535,632,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Naïve CD8 T",11.5551934357276,52.8755660879517,931,"1000",10,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"PBMC_Early","PBMC
+(early)","NK T",13.7794136673349,20.8131005352615,992,"1000",10,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"PBMC_Early","PBMC
+(early)","Others",9.85338124217096,10.5337865768208,789,"1000",10,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","pDC",19.3724202712075,14.6591423792501,726,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Pro-B",13.1789022094482,8.15464977101438,558,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Small pre-B",13.4588727455247,6.77439782884893,677,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Tem",14.1277274894664,11.4242275942893,651,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Th17like_INNATE_T",13.8591165786025,12.1676503908997,745,"750",7,FALSE,"point_only"
+"PBMC_Early","PBMC
+(early)","Treg",13.1226801112051,8.55903934262597,663,"750",7,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","abTentry",4.26616232541261,1.61075452662105,152,"250",1,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","CD14+PPBP+ Monocytes",14.3162281307419,12.6072241807454,810,"1000",10,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","CD56highCD16low NK",3.61980642194969,2.90220259705121,262,"500",4,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"PBMC_Late","PBMC
+(late)","Classical Monocytes",8.74616256047229,7.38508792042681,630,"750",7,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","CX3CR1+ NK",12.1347953086813,20.9562528904049,609,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"PBMC_Late","PBMC
+(late)","CXCR5- Naïve B",10.2062956669528,3.76057789124597,364,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","CXCR5+ Naïve B",10.6680124072938,3.98039105827245,418,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","CXCR6+ NK",11.4521844456955,24.6899017862308,857,"1000",10,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"PBMC_Late","PBMC
+(late)","Cycling Treg",4.26932604475798,1.11573024506492,183,"250",1,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","DC1",12.8508736159374,4.47182009971065,593,"750",7,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","DC2",12.477046609419,9.48784767881936,665,"750",7,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","DNQ T",7.68707666095043,5.48444212086482,277,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Early_ERY",0.103308050780796,0.0440665844909402,20,"250",1,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Endothelial cells",8.76391359170404,5.04227721505053,449,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Gamma Delta V1 T",8.44754848245197,3.89569397177167,324,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Gamma Delta V2 T",9.32048369919308,5.50580095132627,465,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","GNG4 +CD8aa+T",4.01526615747664,4.48910011183862,147,"250",1,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","HSC_MPP",9.81464274667704,6.29682334444878,486,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","ILC2/3",7.79959795907054,10.0114758700899,388,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Large pre-B",8.24837064482144,4.34484381330342,446,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Late_ERY",0,0,0,"250",1,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Macrophages",11.9831906965744,13.1216596599394,512,"750",7,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Megakaryocytes",10.5146267527415,4.03397960347594,307,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","MEMP",4.26945098079445,2.48197968260153,351,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","MEP",4.66853736214092,2.18774192716654,383,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Mid_ERY",0,0.396674526041605,11,"250",1,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Myeloid-CD177",1.92639872766047,1.48227937040394,178,"250",1,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Naïve CD4 T",6.50188654142405,3.94565155914082,379,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Naïve CD8 T",7.70231706743569,43.1514995763869,644,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"PBMC_Late","PBMC
+(late)","NK T",10.0860785181672,35.5229023343907,797,"1000",10,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"PBMC_Late","PBMC
+(late)","Others",7.64682658935371,5.31251112745443,550,"750",7,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","pDC",14.9364170194609,11.4296269625069,533,"750",7,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Pro-B",9.664864283228,5.17196664703017,391,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Tem",9.58989527018159,7.27119636728177,488,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Th17like_INNATE_T",9.79335591793416,8.6624475227228,443,"500",4,FALSE,"point_only"
+"PBMC_Late","PBMC
+(late)","Treg",8.67596813706097,4.91248367027638,420,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","abTentry",6.74966367339381,1.61409999072478,271,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","CD56highCD16low NK",4.68750921922535,6.68546223481722,452,"500",4,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Liver_Early","Liver","Classical Monocytes",10.0909776666908,6.92156322234996,733,"750",7,FALSE,"point_only"
+"Liver_Early","Liver","CX3CR1+ NK",14.9083620645425,26.2243862089218,868,"1000",10,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Liver_Early","Liver","CXCR5- Naïve B",11.3769134266538,3.47629967852133,362,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","CXCR5+ Naïve B",12.9122567255185,3.68059306187438,464,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","CXCR6+ NK",13.7010608598951,25.3788906820399,762,"1000",10,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Liver_Early","Liver","DC1",16.2900949398727,7.77155919826192,833,"1000",10,FALSE,"point_only"
+"Liver_Early","Liver","DC2",14.1943366172916,10.1965133382435,979,"1000",10,FALSE,"point_only"
+"Liver_Early","Liver","DNQ T",7.11958943663493,10.4654969958802,573,"750",7,FALSE,"point_only"
+"Liver_Early","Liver","DPP T",6.09717799290093,55.535147010068,725,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Liver_Early","Liver","Early_ERY",0.489722209119165,0.38091443888955,142,"250",1,FALSE,"point_only"
+"Liver_Early","Liver","Endothelial cells",15.9969111372279,15.8182072783041,764,"1000",10,FALSE,"point_only"
+"Liver_Early","Liver","Gamma Delta V1 T",13.5533177906821,9.25086534283523,494,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","Gamma Delta V2 T",14.0389140923757,8.61716411174259,671,"750",7,FALSE,"point_only"
+"Liver_Early","Liver","GNG4 +CD8aa+T",9.9398132080763,16.2028033913355,730,"750",7,FALSE,"point_only"
+"Liver_Early","Liver","HSC_MPP",10.0833467205024,5.03669889544683,618,"750",7,FALSE,"point_only"
+"Liver_Early","Liver","ILC2/3",8.44302888399979,5.08973043213547,559,"750",7,FALSE,"point_only"
+"Liver_Early","Liver","Large pre-B",8.81172733864606,3.05293257852959,436,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","Late_ERY",0.107217390519172,0,10,"250",1,FALSE,"point_only"
+"Liver_Early","Liver","Macrophages",10.9767145596229,16.0021296749896,1041,"1000",10,FALSE,"point_only"
+"Liver_Early","Liver","Megakaryocytes",8.16257796520159,4.68623110888942,472,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","MEMP",3.50487385614183,1.9791196522714,408,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","MEP",4.15392974937652,2.1514162138942,423,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","Mid_ERY",0,0.102384959169806,13,"250",1,FALSE,"point_only"
+"Liver_Early","Liver","Myeloid-CD177",1.92979025072649,1.31551301015445,241,"250",1,FALSE,"point_only"
+"Liver_Early","Liver","Naïve CD4 T",11.7937609890379,5.32025920376446,495,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","Naïve CD8 T",12.2999587003365,39.9754292223199,784,"1000",10,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Liver_Early","Liver","NK T",14.4197692625889,22.3712836578258,896,"1000",10,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Liver_Early","Liver","Others",10.3278313326387,4.26924351019424,589,"750",7,FALSE,"point_only"
+"Liver_Early","Liver","pDC",13.6623859552345,5.20072765152466,571,"750",7,FALSE,"point_only"
+"Liver_Early","Liver","Pro-B",10.5174235226299,4.65208957842455,428,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","Small pre-B",10.7866727447093,3.3678474815756,443,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","Tem",14.3335578812659,6.2055647646458,486,"500",4,FALSE,"point_only"
+"Liver_Early","Liver","Th17like_INNATE_T",14.2228342688601,8.03161355609128,505,"750",7,FALSE,"point_only"
+"Liver_Early","Liver","Treg",12.5163940235148,6.17023511899724,550,"750",7,FALSE,"point_only"
+"Thymus_Early","Thymus","abTentry",6.53304212131811,2.54681431479475,357,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","CD56highCD16low NK",3.84666055293739,8.89979112649286,379,"500",4,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Thymus_Early","Thymus","Classical Monocytes",8.31864730231437,5.34155097716328,571,"750",7,FALSE,"point_only"
+"Thymus_Early","Thymus","CX3CR1+ NK",11.3696778719009,18.5283781758152,659,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Thymus_Early","Thymus","CXCR5- Naïve B",9.38289759779479,2.09998991874476,254,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","CXCR5+ Naïve B",16.60681858365,3.54523571612538,447,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","CXCR6+ NK",11.2134018199759,23.6465199004329,682,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Thymus_Early","Thymus","Cycling Treg",6.54564363553074,1.44175654797517,213,"250",1,FALSE,"point_only"
+"Thymus_Early","Thymus","DC1",14.6459186456796,5.5502361193329,790,"1000",10,FALSE,"point_only"
+"Thymus_Early","Thymus","DC2",12.3945333556388,8.27664132557432,763,"1000",10,FALSE,"point_only"
+"Thymus_Early","Thymus","DNQ T",3.3966659213099,3.16318107186406,315,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","DPP T",3.08983399180901,45.9578350401012,586,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Thymus_Early","Thymus","DPQ T",1.14820539378739,38.5506791422151,440,"500",4,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Thymus_Early","Thymus","Early_ERY",0.0473569247817939,0.0927016851853262,90,"250",1,FALSE,"point_only"
+"Thymus_Early","Thymus","Endothelial cells",12.2397987306564,6.40931351061129,871,"1000",10,FALSE,"point_only"
+"Thymus_Early","Thymus","Gamma Delta V1 T",8.99697270309572,3.50372036123812,342,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","Gamma Delta V2 T",11.2470919980062,3.73277582594174,567,"750",7,FALSE,"point_only"
+"Thymus_Early","Thymus","GNG4 +CD8aa+T",4.57600008036235,11.5976436025201,436,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","HSC_MPP",7.49982585081552,2.85119959443392,594,"750",7,FALSE,"point_only"
+"Thymus_Early","Thymus","ILC2/3",10.1535305093885,4.52822907139704,423,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","Large pre-B",8.18386680443151,2.12418077774945,418,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","Late_ERY",0,0,0,"250",1,FALSE,"point_only"
+"Thymus_Early","Thymus","Macrophages",9.66498451478309,5.12357943530829,477,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","Megakaryocytes",5.7191056755208,3.45999285404449,165,"250",1,FALSE,"point_only"
+"Thymus_Early","Thymus","MEMP",3.73681759210457,0.60428671153006,317,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","MEP",2.68856928936431,2.79744629464018,385,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","Mid_ERY",0.0242049745004365,0.209058092951669,26,"250",1,FALSE,"point_only"
+"Thymus_Early","Thymus","Myeloid-CD177",1.7978040761483,2.01636565873506,198,"250",1,FALSE,"point_only"
+"Thymus_Early","Thymus","Naïve CD4 T",9.78405606370859,3.11343471927761,409,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","Naïve CD8 T",11.1198876723777,28.5996446785533,726,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Thymus_Early","Thymus","NK T",10.9838551405732,6.36579929268653,634,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Thymus_Early","Thymus","Others",3.34886783900441,0.497867797131366,180,"250",1,FALSE,"point_only"
+"Thymus_Early","Thymus","pDC",13.564362038788,4.40885756289347,539,"750",7,FALSE,"point_only"
+"Thymus_Early","Thymus","Pro-B",8.32816452237124,2.66530619180242,589,"750",7,FALSE,"point_only"
+"Thymus_Early","Thymus","Th17like_INNATE_T",10.3324420374448,5.26693530680441,460,"500",4,FALSE,"point_only"
+"Thymus_Early","Thymus","Treg",11.218405102251,6.23096853205777,495,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","abTentry",6.9869406403949,2.38590857119636,352,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","CD56highCD16low NK",6.18520814675067,10.2055717598848,404,"500",4,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Spleen_Early","Spleen","Classical Monocytes",7.10883100985101,6.52557344491992,550,"750",7,FALSE,"point_only"
+"Spleen_Early","Spleen","CX3CR1+ NK",11.4720773705111,25.8856811535894,642,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Spleen_Early","Spleen","CXCR5- Naïve B",7.29291469493982,3.03335629317007,272,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","CXCR5+ Naïve B",10.6811362274869,4.51252861984455,412,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","CXCR6+ NK",11.5725895813712,26.078829200088,644,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Spleen_Early","Spleen","DC1",6.25493301002442,3.63251503334347,428,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","DC2",9.96008330755256,10.860436527902,755,"1000",10,FALSE,"point_only"
+"Spleen_Early","Spleen","DNQ T",5.89263080191209,3.49260147992635,190,"250",1,FALSE,"point_only"
+"Spleen_Early","Spleen","DPP T",5.74754479059887,3.65171134931799,281,"500",4,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Spleen_Early","Spleen","Early_ERY",0.111624565537147,0.0334819363925504,34,"250",1,FALSE,"point_only"
+"Spleen_Early","Spleen","Endothelial cells",10.8034552431855,7.32551790150789,271,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","Gamma Delta V1 T",9.1618259193688,7.54542149112795,378,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","Gamma Delta V2 T",10.3662912876638,9.41402845756648,536,"750",7,FALSE,"point_only"
+"Spleen_Early","Spleen","GNG4 +CD8aa+T",9.10789307303592,9.73364854595032,464,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","HSC_MPP",8.65477720826527,5.87424164155146,512,"750",7,FALSE,"point_only"
+"Spleen_Early","Spleen","ILC2/3",6.95631488069611,5.09060742669287,387,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","Large pre-B",4.98405012609331,0.667694056469988,169,"250",1,FALSE,"point_only"
+"Spleen_Early","Spleen","Late_ERY",0.0507761677760565,0.00260648333573015,6,"250",1,FALSE,"point_only"
+"Spleen_Early","Spleen","Macrophages",4.29366288742703,5.019159257241,261,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","Megakaryocytes",8.49346532619232,2.86406522319619,243,"250",1,FALSE,"point_only"
+"Spleen_Early","Spleen","MEMP",3.65812498076303,2.03401356822102,333,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","MEP",4.07493200419671,1.9564011080273,322,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","Mid_ERY",0.064667367461368,0.0991617832282168,18,"250",1,FALSE,"point_only"
+"Spleen_Early","Spleen","Myeloid-CD177",2.48565126221388,1.70280296122868,171,"250",1,FALSE,"point_only"
+"Spleen_Early","Spleen","Naïve CD4 T",8.89620008562695,5.4487514318534,456,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","Naïve CD8 T",9.47494960096359,43.8329994382596,715,"750",7,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Spleen_Early","Spleen","NK T",11.0732305470759,24.1564399903853,853,"1000",10,TRUE,"original_focus_set: DPQ T; DPP T; CD56highCD16low NK; CX3CR1+ NK; CXCR6+ NK; Naïve CD8 T; NK T"
+"Spleen_Early","Spleen","Others",0.967733657150196,0.219491984109503,39,"250",1,FALSE,"point_only"
+"Spleen_Early","Spleen","pDC",13.065697324155,6.08070421321213,495,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","Pro-B",8.78772240045925,5.18641572859837,365,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","Small pre-B",9.03125648656839,3.95738871390702,254,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","Tem",10.2624527397314,2.89308235669938,288,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","Th17like_INNATE_T",10.6065785375349,7.23475607971015,419,"500",4,FALSE,"point_only"
+"Spleen_Early","Spleen","Treg",9.91956743629108,5.87019548517091,461,"500",4,FALSE,"point_only"

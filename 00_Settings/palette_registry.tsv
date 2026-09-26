@@ -1,0 +1,115 @@
+scope	element	hex	provenance
+M01b	scRNA-seq and sc TCR/BCR-seq	#DA3B35	Original manuscript Fig. 1b
+M01b	Spectral flow cytometry	#ECA243	Original manuscript Fig. 1b
+M01b	Plasma proteomics	#6E68A8	Original manuscript Fig. 1b
+M01b	Stimulation proteomics	#6E68A8	Original manuscript Fig. 1b
+M01b	Stimulation bulk RNA-seq	#43AC71	Original manuscript Fig. 1b
+M01b	Organ and cell-count strips	#5BB9BB	Original manuscript Fig. 1b
+M01b	Frames and text	#202020	Original manuscript Fig. 1b
+M01b	Vertical guide lines	#C9C9C9	Original manuscript Fig. 1b
+M05i	Heatmap low	#246BAE	Original manuscript Fig. 5i
+M05i	Heatmap midpoint	#FFFFFF	Original manuscript Fig. 5i
+M05i	Heatmap warm	#EDAE11	Original manuscript Fig. 5i
+M05i	Heatmap high	#C71000	Original manuscript Fig. 5i
+M05i	Positive correlation	#8F1336	Original manuscript Fig. 5i
+M05i	Negative correlation	#3D3B25	Original manuscript Fig. 5i
+M02c	Negative local correlation	#343A9A	local-correlation heatmap
+M02c	Zero local correlation	#18A6B4	local-correlation heatmap
+M02c	Positive local correlation	#F4D943	local-correlation heatmap
+M02c	Frames and text	#202020	Publication styling
+M02d	Lower significance	#8BB8D3	BH-adjusted GO enrichment scale
+M02d	Intermediate significance	#6959A6	BH-adjusted GO enrichment scale
+M02d	Higher significance	#292467	BH-adjusted GO enrichment scale
+M02d	Frames and text	#202020	Publication styling
+M02e	Heatmap low	#1498B5	Validated temporal-program heatmap
+M02e	Heatmap midpoint	#F7F7F2	Validated temporal-program heatmap
+M02e	Heatmap high	#E85D3F	Validated temporal-program heatmap
+M02e	16-22 pcw	#D8A33E	Gestational-stage annotation
+M02e	22-28 pcw	#D86B3A	Gestational-stage annotation
+M02e	28-34 pcw	#5A8C73	Gestational-stage annotation
+M02e	34-40 pcw	#236F68	Gestational-stage annotation
+M02e	Program 1	#167D8D	Transcript-program annotation
+M02e	Program 2	#C678A6	Transcript-program annotation
+M02e	Program 3	#D55C8C	Transcript-program annotation
+M02e	Program 4	#149D77	Transcript-program annotation
+M02e	Program 5	#A77568	Transcript-program annotation
+M02e	Frames and text	#202020	Publication styling
+M03d	Communication probability very low	#2166AC	Original manuscript CellChat code
+M03d	Communication probability low	#518BBD	Original manuscript CellChat code
+M03d	Communication probability midpoint	#F0E68C	Original manuscript CellChat code
+M03d	Communication probability high	#D25E55	Original manuscript CellChat code
+M03d	Communication probability very high	#B2182B	Original manuscript CellChat code
+M03d	Frames and text	#202020	Publication styling
+M02d	Early-only module genes	#D8A33E	Reused locked Figure 2e early-stage endpoint
+M02d	Shared module genes	#8A8A8A	Neutral retained-gene category
+M02d	Late-only module genes	#236F68	Reused locked Figure 2e late-stage endpoint
+M02d_correspondence	Zero overlap	#F2F3F3	Complete Early-to-Late module correspondence
+M02d_correspondence	Lower overlap	#8BB8D3	Complete Early-to-Late module correspondence
+M02d_correspondence	Intermediate overlap	#6959A6	Complete Early-to-Late module correspondence
+M02d_correspondence	Higher overlap	#292467	Complete Early-to-Late module correspondence
+M02d_correspondence	M4-STEM context outline	#686868	Late-only context module
+M02d_correspondence	Frames and text	#202020	Publication styling
+S11d	DP(P) T	#E06E3A	Original manuscript clone cell-number panel
+S11d	DN(Q) T	#C73934	Original manuscript clone cell-number panel
+S11d	Treg	#008EA0	Original manuscript clone cell-number panel
+S11d	Naïve CD8 T	#894491	Original manuscript clone cell-number panel
+S11d	Naïve CD4 T	#5A9599	Original manuscript clone cell-number panel
+S11d	Th17-like innate T	#DE624E	Original manuscript clone cell-number panel
+S11d	Cycling Treg	#88C9D6	Original manuscript clone cell-number panel
+S11d	Sample strip	#DAD9D9	Original manuscript clone cell-number panel
+S11d	Frames and text	#181818	Publication styling
+M03c	MHC-I	#E06E52	Final manuscript Figure 3c
+M03c	CLEC	#5C8D76	Final manuscript Figure 3c
+M03c	CD99	#8EC9E5	Final manuscript Figure 3c
+M03c	ICAM	#B98C39	Final manuscript Figure 3c
+M03c	SELPLG	#775D86	Final manuscript Figure 3c
+M03c	LCK	#A85B6A	Final manuscript Figure 3c
+M03c	ITGB2	#99C356	Final manuscript Figure 3c
+M07b	CD8A	#49A055	Manuscript Figure 7b reference
+M07b	CCL11	#1BAA96	Manuscript Figure 7b reference
+M07b	IL18	#F2BE7D	Manuscript Figure 7b reference
+M07b	CD6	#9BD2E3	Manuscript Figure 7b reference
+M07b	CD5	#D93A45	Manuscript Figure 7b reference
+M07b	TRAIL	#EBA042	Manuscript Figure 7b reference
+M07b	OSM	#333366	Manuscript Figure 7b reference
+M07b	FGF19	#4A2963	Manuscript Figure 7b reference
+M07b	IL22RA1	#9A3333	Manuscript Figure 7b reference
+M07b	FGF5	#393C8F	Manuscript Figure 7b reference
+M07b	Flt3L	#CACC4F	Manuscript Figure 7b reference
+M07b	CD40	#009966	Manuscript Figure 7b reference
+M07b	IL8	#989A49	Manuscript Figure 7b reference
+M07b	OPG	#CD393A	Manuscript Figure 7b reference
+M07b	MMP10	#CB9965	Manuscript Figure 7b reference
+M07b	MCP1	#CD393A	Manuscript Figure 7b reference
+M07b	CCL3	#2F337B	Manuscript Figure 7b reference
+M08_views	HSC_MPP	#80BA5A	Manuscript Figure 8
+M08_views	MEMP	#66C5CC	Manuscript Figure 8
+M08_views	MEP	#F2B701	Manuscript Figure 8
+M08_views	Naive_CD4_T	#11A579	Manuscript Figure 8
+M08_views	Treg	#377EB8	Manuscript Figure 8
+M08_views	Naive_CD8_T	#CCEBC5	Manuscript Figure 8
+M08_views	Gamma_Delta_V2_T	#BC80BD	Manuscript Figure 8
+M08_views	Th17like_INNATE_T	#D9D9D9	Manuscript Figure 8
+M08_views	NK_T	#FCCDE5	Manuscript Figure 8
+M08_views	CX3CR1x_NK	#B3DE69	Manuscript Figure 8
+M08_views	CXCR6x_NK	#FDB462	Manuscript Figure 8
+M08_views	CXCR5low_Naive_B	#80B1D3	Manuscript Figure 8
+M08_views	CXCR5high_Naive_B	#FB8072	Manuscript Figure 8
+M08_views	MyeloidxCD177	#FFFFB3	Manuscript Figure 8
+M08_views	CD14xPPBPx_Monocytes	#B3E2CD	Manuscript Figure 8
+M08_views	Classical_Monocytes	#A6CEE3	Manuscript Figure 8
+M08_views	DC2	#8DA0CB	Manuscript Figure 8
+M08_views	pDC	#66C2A5	Manuscript Figure 8
+M08_views	Cell_stimulate_BulkRNA	#1B9E77	Manuscript Figure 8
+M08_views	Cell_stimulate_Olink	#BC80BD	Manuscript Figure 8
+M08_views	Plama_Olink	#FFFF99	Manuscript Figure 8
+M08_views	Sflow_Freq_inParent	#E6AB02	Manuscript Figure 8
+M08_views	CD4TCR	#FFD92F	Manuscript Figure 8
+M08_views	CD8TCR	#FF7F00	Manuscript Figure 8
+M08_views	BCR	#E41A1C	Manuscript Figure 8
+M08_modality	Single-cell RNA-seq	#E41A1C	Manuscript Figure 8b category strip
+M08_modality	TCR	#11A579	Manuscript Figure 8b category strip
+M08_modality	BCR	#F6CF71	Manuscript Figure 8b category strip
+M08_modality	Olink	#7570B3	Manuscript Figure 8b category strip
+M08_modality	Stimulation bulk RNA-seq	#4DAF4A	Manuscript Figure 8b category strip
+M08_modality	Spectral flow cytometry	#FF7F00	Manuscript Figure 8b category strip

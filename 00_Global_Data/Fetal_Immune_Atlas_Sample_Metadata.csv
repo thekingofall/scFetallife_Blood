@@ -1,0 +1,38 @@
+﻿Name,MainID,Donor_ID,Main_Organ,Gestational_Age_Weeks,Post_Conception_Age_Weeks,Gestational_Age_Source,scRNAseq_Cell_Count,scRNAseq_Available,Flow_Cytometry_Available,Plasma_Olink_Available,Stimulated_Olink_Available,PHA_Bulk_RNA_Available,Flow_ID,Plasma_Olink_ID,Stimulated_Olink_ID,scRNA_Pseudobulk_Available
+C27,L10.0_P1,P1,Liver,12.0,10.0,scRNAseq sample_metadata.tsv,1402,1,1,0,0,0,C27,,,0
+D27,T10.0_P1,P1,Thymus,12.0,10.0,scRNAseq sample_metadata.tsv,6837,1,1,0,0,0,D27,,,0
+Z28,B12.0_P2,P2,PBMC,14.0,12.0,scRNAseq sample_metadata.tsv,3276,1,1,1,0,0,Z28,S20221231624,,1
+Z48,B17.4_P3,P3,PBMC,19.43,17.4,scRNAseq sample_metadata.tsv,5050,1,1,1,1,1,Z48,S20221231631,S20230417005,1
+Z67,B18.0_P4,P4,PBMC,20.0,18.0,scRNAseq sample_metadata.tsv,8964,1,1,1,1,1,Z67,S20221231635,S20230417009,1
+Z99,B18.6_P5,P5,PBMC,20.57,18.6,scRNAseq sample_metadata.tsv,9266,1,1,1,1,1,Z99,S20221231641,S20230417014,1
+C25,L18.6_P5,P5,Liver,20.57,18.6,scRNAseq sample_metadata.tsv,7734,1,1,0,0,0,C25,,,0
+B25,S18.6_P5,P5,Spleen,20.57,18.6,scRNAseq sample_metadata.tsv,9227,1,1,0,0,0,B25,,,0
+D25,T18.6_P5,P5,Thymus,20.57,18.6,scRNAseq sample_metadata.tsv,6487,1,1,0,0,0,D26,,,0
+Z03,B20.9_P7,P7,PBMC,22.86,20.9,scRNAseq sample_metadata.tsv,5940,1,1,1,1,1,Z03,S20221231622,S20230416999,1
+Z79,B21.7_P8,P8,PBMC,23.71,21.7,scRNAseq sample_metadata.tsv,7069,1,1,1,1,1,Z79,S20221231638,S20230417011,1
+Z43,B22.4_P9,P9,PBMC,24.43,22.4,scRNAseq sample_metadata.tsv,8587,1,1,1,1,1,Z43,S20221231629,S20230417003,1
+Z53,B23.4_P10,P10,PBMC,25.43,23.4,scRNAseq sample_metadata.tsv,9225,1,1,1,1,1,Z53,S20221231634,S20230417008,1
+Z47,B24.6_P11,P11,PBMC,26.57,24.6,scRNAseq sample_metadata.tsv,4075,1,1,1,1,1,Z47,S20221231630,S20230417004,1
+C10,L24.6_P11,P11,Liver,26.57,24.6,scRNAseq sample_metadata.tsv,7387,1,1,0,0,0,C10,,,0
+B9,S24.6_P11,P11,Spleen,26.57,24.6,scRNAseq sample_metadata.tsv,9181,1,1,0,0,0,B09,,,0
+D9,T24.6_P11,P11,Thymus,26.57,24.6,scRNAseq sample_metadata.tsv,5517,1,1,0,0,0,D09,,,0
+Z07,B26.9_P12,P12,PBMC,28.86,26.9,scRNAseq sample_metadata.tsv,6728,1,1,1,1,1,Z07,S20221231623,S20230417000,1
+Z36,B29.1_P13,P13,PBMC,31.14,29.1,scRNAseq sample_metadata.tsv,4280,1,1,0,0,0,Z36,,,1
+Z38,B31.3_P15,P15,PBMC,33.29,31.3,scRNAseq sample_metadata.tsv,7516,1,1,1,1,1,Z38,S20221231627,S20230417002,1
+Z42,B32.4_P16,P16,PBMC,34.43,32.4,scRNAseq sample_metadata.tsv,6019,1,1,1,0,0,Z42,S20221231628,,1
+Z98,B33.3_P17,P17,PBMC,35.29,33.3,scRNAseq sample_metadata.tsv,6550,1,1,1,1,1,Z98,S20221231640,S20230417013,1
+Z33,B34.1_P18,P18,PBMC,36.14,34.1,scRNAseq sample_metadata.tsv,7599,1,1,1,1,1,Z33,S20221231625,S20230417001,1
+Z70,B36.1_P19,P19,PBMC,38.14,36.1,scRNAseq sample_metadata.tsv,6422,1,1,1,1,1,Z70,S20221231636,S20230417010,1
+Z52,B37.9_P20,P20,PBMC,39.86,37.9,scRNAseq sample_metadata.tsv,12585,1,1,1,1,1,Z52,S20221231633,S20230417007,1
+Z50,B38.1_P21,P21,PBMC,40.14,38.1,scRNAseq sample_metadata.tsv,6718,1,1,1,1,1,Z50,S20221231632,S20230417006,1
+Z96,B39.1_P22,P22,PBMC,41.14,39.1,scRNAseq sample_metadata.tsv,7967,1,1,1,1,1,Z96,S20221231639,S20230417012,1
+Z123,B22.4_P23,P23,PBMC,24.43,22.4,scRNAseq sample_metadata.tsv,15963,1,0,0,0,0,,,,1
+z104,B11.6_P24,P24,PBMC,13.57,11.6,scRNAseq sample_metadata.tsv,12293,1,0,0,0,0,,,,1
+C36,L10.1_P25,P25,Liver,12.14,10.1,scRNAseq sample_metadata.tsv,10571,1,0,0,0,0,,,,0
+D36,T10.1_P25,P25,Thymus,12.14,10.1,scRNAseq sample_metadata.tsv,9059,1,0,0,0,0,,,,0
+C21,L22.0_P26,P26,Liver,24.0,22.0,legacy SampleMeta.csv; original precision,0,0,1,0,0,0,C21,,,0
+B20,S22.0_P26,P26,Spleen,24.0,22.0,legacy SampleMeta.csv; original precision,0,0,1,0,0,0,B20,,,0
+D20,T22.0_P26,P26,Thymus,24.0,22.0,legacy SampleMeta.csv; original precision,0,0,1,0,0,0,D20,,,0
+C09,L24.6_P27,P27,Liver,26.6,24.6,legacy SampleMeta.csv; original precision,0,0,1,0,0,0,C09,,,0
+B08,S24.6_P27,P27,Spleen,26.6,24.6,legacy SampleMeta.csv; original precision,0,0,1,0,0,0,B08,,,0
+D08,T24.6_P27,P27,Thymus,26.6,24.6,legacy SampleMeta.csv; original precision,0,0,1,0,0,0,D08,,,0

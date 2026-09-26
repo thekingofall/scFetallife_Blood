@@ -1,0 +1,14 @@
+"outgoing","incoming","specificity.out.in","specificity","labels","target_internal","Group","selection_rule","selected"
+-0.966197833300849,0.738355467589822,"Incoming specific","Shared","APP","CD56highCD16low NK","CD56highCD16low NK","incoming > 0.3",TRUE
+0,0.310284123903556,"Incoming specific","PBMC_Early specific","ADGRE5","CD56highCD16low NK","CD56highCD16low NK","incoming > 0.3",TRUE
+1.62076642909709,2.00131862886056,"Incoming & Outgoing specific","PBMC_Early specific","CD99","CX3CR1+ NK","CX3CR1+ NK","incoming > 0.3",TRUE
+4.02435919169148,9.6912758884536,"Incoming & Outgoing specific","PBMC_Early specific","MHC-II","CX3CR1+ NK","CX3CR1+ NK","incoming > 0.3",TRUE
+0.970721739004581,1.98337056663714,"Incoming & Outgoing specific","PBMC_Early specific","APP","CX3CR1+ NK","CX3CR1+ NK","incoming > 0.3",TRUE
+1.08174749292419,0.784259039356321,"Incoming & Outgoing specific","PBMC_Early specific","ITGB2","CX3CR1+ NK","CX3CR1+ NK","incoming > 0.3",TRUE
+0.72418424238762,0.752989850005665,"Incoming & Outgoing specific","PBMC_Early specific","ICAM","CX3CR1+ NK","CX3CR1+ NK","incoming > 0.3",TRUE
+0.3145156607265,3.66823365965736,"Incoming & Outgoing specific","PBMC_Early specific","CD45","CX3CR1+ NK","CX3CR1+ NK","incoming > 0.3",TRUE
+2.91283899784716,2.32138535561196,"Outgoing specific","PBMC_Early specific","CD99","CXCR6+ NK","CXCR6+ NK","incoming > 0.3",TRUE
+0,0.388106991593489,"Incoming specific","PBMC_Early specific","SELPLG","CXCR6+ NK","CXCR6+ NK","incoming > 0.3",TRUE
+-1.12991884186551,-1.03719241614722,"Shared","Shared","CD99","NK T","NKT","incoming < -0.3",TRUE
+0.188196175243665,-0.881747778049225,"Incoming specific","Shared","CLEC","NK T","NKT","incoming < -0.3",TRUE
+0.055024869211778,-0.373705370568594,"Shared","Shared","SELPLG","NK T","NKT","incoming < -0.3",TRUE

@@ -1,0 +1,29 @@
+"tissue","category","proportion"
+"Liver","single pair",0.551475015051174
+"Liver","orphan VDJ",0.378687537627935
+"Liver","orphan VJ",0.0132450331125828
+"Liver","extra VDJ",0.0140477623921333
+"Liver","extra VJ",0.0260887015853903
+"Liver","ambiguous",0.0124423038330323
+"Liver","two full chains",0.00401364639775236
+"PBMC","single pair",0.909095644926026
+"PBMC","orphan VDJ",0.00489685351114816
+"PBMC","orphan VJ",0.00322983954990623
+"PBMC","extra VDJ",0.00692852677641175
+"PBMC","extra VJ",0.0420921025213586
+"PBMC","ambiguous",0.0233902896436758
+"PBMC","two full chains",0.0103667430714732
+"Spleen","single pair",0.892526922658544
+"Spleen","orphan VDJ",0.00445991515283368
+"Spleen","orphan VJ",0.00663548352006962
+"Spleen","extra VDJ",0.00533014249972805
+"Spleen","extra VJ",0.0419884694876536
+"Spleen","ambiguous",0.0316545197432829
+"Spleen","two full chains",0.0174045469378875
+"Thymus","single pair",0.845070422535211
+"Thymus","orphan VDJ",0.0375586854460094
+"Thymus","orphan VJ",0.0516431924882629
+"Thymus","extra VDJ",0.0140845070422535
+"Thymus","extra VJ",0.0469483568075117
+"Thymus","ambiguous",0.00469483568075117
+"Thymus","two full chains",0

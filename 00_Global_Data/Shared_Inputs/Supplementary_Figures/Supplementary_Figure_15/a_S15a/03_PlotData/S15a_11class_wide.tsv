@@ -1,0 +1,28 @@
+MainID	Tissue	Denominator	CXCR5-B	CXCR5+B	Immature NK	Mature NK	CD8+ T	CD4+ T	DNT	CD4+ ISP	CD8+ ISP	DPT	Ungate
+B12.0_P2	PBMC	total lymphocytes (FlowJo parent: Single live cells)	0.15	0.013	0	0.00662	0	0.00331	0.073	0.00331	0.03	0.017	99.70376
+B17.4_P3	PBMC	total lymphocytes (FlowJo parent: Single live cells)	0.04	0.000332	0.024	0.12	0.274499	1.17	0.046	0.074	0.056	0.002326	98.192843
+B18.0_P4	PBMC	total lymphocytes (FlowJo parent: Single live cells)	2.44	4.22	0.34	1.77	17.8	52.75	1.98	0.38	0.077	0.43416	17.80884
+B18.6_P5	PBMC	total lymphocytes (FlowJo parent: Single live cells)	5.47	1.68	2.15	22.7	12.1	32.93	1.29	0.55	0.77	0.27754	20.08246
+B20.9_P7	PBMC	total lymphocytes (FlowJo parent: Single live cells)	2.08	4.54	1.16	4.06	7.202	48.97	22	0.55	0.092	0.09539	9.25060999999999
+B21.7_P8	PBMC	total lymphocytes (FlowJo parent: Single live cells)	0.84	0.15	0.36	2.14	0.718	2.174	0.1	0.04	0.043	0.029	93.406
+B22.4_P9	PBMC	total lymphocytes (FlowJo parent: Single live cells)	0.87	1.33	0.24	1.97	12.06	50.34	1.91	0.19	0.06	0.36446	30.66554
+B23.4_P10	PBMC	total lymphocytes (FlowJo parent: Single live cells)	1.19	1.27	0.77	2.25	20.94	62.2	1.56	0.52	0.096	0.27235	8.93165
+B24.6_P11	PBMC	total lymphocytes (FlowJo parent: Single live cells)	11	3.23	3.9	12.7	5.47	12.61	0.52	2.66	0.55	0.08851	47.27149
+B26.9_P12	PBMC	total lymphocytes (FlowJo parent: Single live cells)	0.2	0.21	0.06	0.62	1.617	4.98	0.1	0.032	0.064	0.025425	92.091575
+B29.1_P13	PBMC	total lymphocytes (FlowJo parent: Single live cells)	2.85	2.9	1.1	6.95	9.22	40.79	0.53	0.97	0.25	0.083	34.357
+B31.3_P15	PBMC	total lymphocytes (FlowJo parent: Single live cells)	2.49	1.97	1.47	7.44	5.89	39.65	1.05	1.34	0.34	0.33433	38.02567
+B32.4_P16	PBMC	total lymphocytes (FlowJo parent: Single live cells)	1.51	6.87	1.89	24.4	12.68	32.66	1.54	0.35	1.05	0.21241	16.83759
+B33.3_P17	PBMC	total lymphocytes (FlowJo parent: Single live cells)	0.26	1.12	0.5	2.3	9.33	66.11	1.27	0.48	0.24	0.3367	18.0533
+B34.1_P18	PBMC	total lymphocytes (FlowJo parent: Single live cells)	0.59	4.46	0.82	9.77	13.27	57.77	1.61	0.4	0.49	0.35801	10.46199
+B36.1_P19	PBMC	total lymphocytes (FlowJo parent: Single live cells)	0.38	2.72	0.49	8.49	10.92	61.41	2.93	0.49	0.19	0.20557	11.77443
+B37.9_P20	PBMC	total lymphocytes (FlowJo parent: Single live cells)	0.21	2.67	1	3.93	24.62	49.131	1.89	0.27	0.14	0.312	15.827
+B38.1_P21	PBMC	total lymphocytes (FlowJo parent: Single live cells)	0.4	3.61	2.3	10.6	17.65	52.22	1.31	0.53	0.13	0.180948	11.069052
+B39.1_P22	PBMC	total lymphocytes (FlowJo parent: Single live cells)	0.38	4.87	0.28	5.7	15.14	55.1	10.1	0.24	0.7	0.442	7.048
+L10.0_P1	Liver	total CD45+ cells (FlowJo parent: CD45+cells)	4.98	2.72	9.39	1.48	0.1	0.197	0.078	2.92	0.093	0.133	77.909
+L18.6_P5	Liver	total CD45+ cells (FlowJo parent: CD45+cells)	9.17	6.36	21	2.15	2.02	2.99	0.43	3.2	0.22	0.08285	52.37715
+L24.6_P11	Liver	total CD45+ cells (FlowJo parent: CD45+cells)	37	2.99	9.16	1.26	0.869	0.94	0.21	1.46	0.43	0.042	45.639
+T10.0_P1	Thymus	total CD45+ cells (FlowJo parent: CD45+cells)	0.51	0.094	1.96	0.53	5.22	20.79	2.07	15.1	0.33	44.3	9.096
+T18.6_P5	Thymus	total CD45+ cells (FlowJo parent: CD45+cells)	0.17	0.69	0.47	0.083	18.23	40.39	3.05	8.46	0.22	20.89	7.34699999999999
+T24.6_P11	Thymus	total CD45+ cells (FlowJo parent: CD45+cells)	0.2	0.27	0.044	0.017	12.3	6.051	24.2	3.73	4.46	15.86	32.868
+S18.6_P5	Spleen	total CD45+ cells (FlowJo parent: CD45+cells)	2.45	11.1	19.4	3.27	17.16	22.38	5.28	1	0.67	0.55972	16.73028
+S24.6_P11	Spleen	total CD45+ cells (FlowJo parent: CD45+cells)	2.55	21.1	15.4	0.8	13.34	17.56	1.86	1.41	1.37	0.3145	24.2955

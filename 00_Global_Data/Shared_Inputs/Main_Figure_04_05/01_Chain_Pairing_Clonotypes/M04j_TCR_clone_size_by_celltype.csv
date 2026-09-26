@@ -1,0 +1,274 @@
+cell_type,Main_Organ,clone_size,count,proportion
+GNG4 +CD8aa+T,Spleen,1,6,1.0
+GNG4 +CD8aa+T,Spleen,2,0,0.0
+GNG4 +CD8aa+T,Spleen,3,0,0.0
+GNG4 +CD8aa+T,Spleen,4,0,0.0
+GNG4 +CD8aa+T,Spleen,5,0,0.0
+GNG4 +CD8aa+T,Spleen,6,0,0.0
+GNG4 +CD8aa+T,Spleen,>=7,0,0.0
+NK T,Spleen,1,362,0.9945054945054945
+NK T,Spleen,2,2,0.005494505494505495
+NK T,Spleen,3,0,0.0
+NK T,Spleen,4,0,0.0
+NK T,Spleen,5,0,0.0
+NK T,Spleen,6,0,0.0
+NK T,Spleen,>=7,0,0.0
+Naïve CD4 T,Spleen,1,696,0.992867332382311
+Naïve CD4 T,Spleen,2,5,0.007132667617689016
+Naïve CD4 T,Spleen,3,0,0.0
+Naïve CD4 T,Spleen,4,0,0.0
+Naïve CD4 T,Spleen,5,0,0.0
+Naïve CD4 T,Spleen,6,0,0.0
+Naïve CD4 T,Spleen,>=7,0,0.0
+Naïve CD8 T,Spleen,1,784,0.9824561403508771
+Naïve CD8 T,Spleen,2,14,0.017543859649122806
+Naïve CD8 T,Spleen,3,0,0.0
+Naïve CD8 T,Spleen,4,0,0.0
+Naïve CD8 T,Spleen,5,0,0.0
+Naïve CD8 T,Spleen,6,0,0.0
+Naïve CD8 T,Spleen,>=7,0,0.0
+Tem,Spleen,1,2,1.0
+Tem,Spleen,2,0,0.0
+Tem,Spleen,3,0,0.0
+Tem,Spleen,4,0,0.0
+Tem,Spleen,5,0,0.0
+Tem,Spleen,6,0,0.0
+Tem,Spleen,>=7,0,0.0
+Th17like_INNATE_T,Spleen,1,52,0.9811320754716981
+Th17like_INNATE_T,Spleen,2,1,0.018867924528301886
+Th17like_INNATE_T,Spleen,3,0,0.0
+Th17like_INNATE_T,Spleen,4,0,0.0
+Th17like_INNATE_T,Spleen,5,0,0.0
+Th17like_INNATE_T,Spleen,6,0,0.0
+Th17like_INNATE_T,Spleen,>=7,0,0.0
+Treg,Spleen,1,251,0.984313725490196
+Treg,Spleen,2,4,0.01568627450980392
+Treg,Spleen,3,0,0.0
+Treg,Spleen,4,0,0.0
+Treg,Spleen,5,0,0.0
+Treg,Spleen,6,0,0.0
+Treg,Spleen,>=7,0,0.0
+abT(entry),Spleen,1,211,0.9952830188679245
+abT(entry),Spleen,2,1,0.0047169811320754715
+abT(entry),Spleen,3,0,0.0
+abT(entry),Spleen,4,0,0.0
+abT(entry),Spleen,5,0,0.0
+abT(entry),Spleen,6,0,0.0
+abT(entry),Spleen,>=7,0,0.0
+DP(P) T,Liver,1,43,0.9555555555555556
+DP(P) T,Liver,2,2,0.044444444444444446
+DP(P) T,Liver,3,0,0.0
+DP(P) T,Liver,4,0,0.0
+DP(P) T,Liver,5,0,0.0
+DP(P) T,Liver,6,0,0.0
+DP(P) T,Liver,>=7,0,0.0
+GNG4 +CD8aa+T,Liver,1,4,1.0
+GNG4 +CD8aa+T,Liver,2,0,0.0
+GNG4 +CD8aa+T,Liver,3,0,0.0
+GNG4 +CD8aa+T,Liver,4,0,0.0
+GNG4 +CD8aa+T,Liver,5,0,0.0
+GNG4 +CD8aa+T,Liver,6,0,0.0
+GNG4 +CD8aa+T,Liver,>=7,0,0.0
+ILC2/3,Liver,1,2,1.0
+ILC2/3,Liver,2,0,0.0
+ILC2/3,Liver,3,0,0.0
+ILC2/3,Liver,4,0,0.0
+ILC2/3,Liver,5,0,0.0
+ILC2/3,Liver,6,0,0.0
+ILC2/3,Liver,>=7,0,0.0
+NK T,Liver,1,70,1.0
+NK T,Liver,2,0,0.0
+NK T,Liver,3,0,0.0
+NK T,Liver,4,0,0.0
+NK T,Liver,5,0,0.0
+NK T,Liver,6,0,0.0
+NK T,Liver,>=7,0,0.0
+Naïve CD4 T,Liver,1,395,1.0
+Naïve CD4 T,Liver,2,0,0.0
+Naïve CD4 T,Liver,3,0,0.0
+Naïve CD4 T,Liver,4,0,0.0
+Naïve CD4 T,Liver,5,0,0.0
+Naïve CD4 T,Liver,6,0,0.0
+Naïve CD4 T,Liver,>=7,0,0.0
+Naïve CD8 T,Liver,1,297,0.9933110367892977
+Naïve CD8 T,Liver,2,2,0.006688963210702341
+Naïve CD8 T,Liver,3,0,0.0
+Naïve CD8 T,Liver,4,0,0.0
+Naïve CD8 T,Liver,5,0,0.0
+Naïve CD8 T,Liver,6,0,0.0
+Naïve CD8 T,Liver,>=7,0,0.0
+Tem,Liver,1,17,1.0
+Tem,Liver,2,0,0.0
+Tem,Liver,3,0,0.0
+Tem,Liver,4,0,0.0
+Tem,Liver,5,0,0.0
+Tem,Liver,6,0,0.0
+Tem,Liver,>=7,0,0.0
+Th17like_INNATE_T,Liver,1,14,1.0
+Th17like_INNATE_T,Liver,2,0,0.0
+Th17like_INNATE_T,Liver,3,0,0.0
+Th17like_INNATE_T,Liver,4,0,0.0
+Th17like_INNATE_T,Liver,5,0,0.0
+Th17like_INNATE_T,Liver,6,0,0.0
+Th17like_INNATE_T,Liver,>=7,0,0.0
+Treg,Liver,1,107,0.9907407407407407
+Treg,Liver,2,1,0.009259259259259259
+Treg,Liver,3,0,0.0
+Treg,Liver,4,0,0.0
+Treg,Liver,5,0,0.0
+Treg,Liver,6,0,0.0
+Treg,Liver,>=7,0,0.0
+abT(entry),Liver,1,66,0.9850746268656716
+abT(entry),Liver,2,1,0.014925373134328358
+abT(entry),Liver,3,0,0.0
+abT(entry),Liver,4,0,0.0
+abT(entry),Liver,5,0,0.0
+abT(entry),Liver,6,0,0.0
+abT(entry),Liver,>=7,0,0.0
+Cycling Treg,Thymus,1,0,0.0
+Cycling Treg,Thymus,2,0,0.0
+Cycling Treg,Thymus,3,0,0.0
+Cycling Treg,Thymus,4,0,0.0
+Cycling Treg,Thymus,5,0,0.0
+Cycling Treg,Thymus,6,0,0.0
+Cycling Treg,Thymus,>=7,18,1.0
+DN(Q) T,Thymus,1,190,0.7661290322580645
+DN(Q) T,Thymus,2,20,0.08064516129032258
+DN(Q) T,Thymus,3,21,0.0846774193548387
+DN(Q) T,Thymus,4,12,0.04838709677419355
+DN(Q) T,Thymus,5,5,0.020161290322580645
+DN(Q) T,Thymus,6,0,0.0
+DN(Q) T,Thymus,>=7,0,0.0
+DP(P) T,Thymus,1,2190,0.9720372836218375
+DP(P) T,Thymus,2,41,0.018197958277851752
+DP(P) T,Thymus,3,6,0.002663115845539281
+DP(P) T,Thymus,4,0,0.0
+DP(P) T,Thymus,5,10,0.004438526409232135
+DP(P) T,Thymus,6,6,0.002663115845539281
+DP(P) T,Thymus,>=7,0,0.0
+DP(Q) T,Thymus,1,668,0.9985052316890882
+DP(Q) T,Thymus,2,1,0.0014947683109118087
+DP(Q) T,Thymus,3,0,0.0
+DP(Q) T,Thymus,4,0,0.0
+DP(Q) T,Thymus,5,0,0.0
+DP(Q) T,Thymus,6,0,0.0
+DP(Q) T,Thymus,>=7,0,0.0
+GNG4 +CD8aa+T,Thymus,1,516,0.9809885931558935
+GNG4 +CD8aa+T,Thymus,2,10,0.019011406844106463
+GNG4 +CD8aa+T,Thymus,3,0,0.0
+GNG4 +CD8aa+T,Thymus,4,0,0.0
+GNG4 +CD8aa+T,Thymus,5,0,0.0
+GNG4 +CD8aa+T,Thymus,6,0,0.0
+GNG4 +CD8aa+T,Thymus,>=7,0,0.0
+NK T,Thymus,1,101,0.926605504587156
+NK T,Thymus,2,6,0.05504587155963303
+NK T,Thymus,3,2,0.01834862385321101
+NK T,Thymus,4,0,0.0
+NK T,Thymus,5,0,0.0
+NK T,Thymus,6,0,0.0
+NK T,Thymus,>=7,0,0.0
+Naïve CD4 T,Thymus,1,142,0.993006993006993
+Naïve CD4 T,Thymus,2,1,0.006993006993006993
+Naïve CD4 T,Thymus,3,0,0.0
+Naïve CD4 T,Thymus,4,0,0.0
+Naïve CD4 T,Thymus,5,0,0.0
+Naïve CD4 T,Thymus,6,0,0.0
+Naïve CD4 T,Thymus,>=7,0,0.0
+Naïve CD8 T,Thymus,1,207,0.9764150943396226
+Naïve CD8 T,Thymus,2,5,0.02358490566037736
+Naïve CD8 T,Thymus,3,0,0.0
+Naïve CD8 T,Thymus,4,0,0.0
+Naïve CD8 T,Thymus,5,0,0.0
+Naïve CD8 T,Thymus,6,0,0.0
+Naïve CD8 T,Thymus,>=7,0,0.0
+Th17like_INNATE_T,Thymus,1,3,1.0
+Th17like_INNATE_T,Thymus,2,0,0.0
+Th17like_INNATE_T,Thymus,3,0,0.0
+Th17like_INNATE_T,Thymus,4,0,0.0
+Th17like_INNATE_T,Thymus,5,0,0.0
+Th17like_INNATE_T,Thymus,6,0,0.0
+Th17like_INNATE_T,Thymus,>=7,0,0.0
+Treg,Thymus,1,477,0.9655870445344129
+Treg,Thymus,2,14,0.02834008097165992
+Treg,Thymus,3,3,0.006072874493927126
+Treg,Thymus,4,0,0.0
+Treg,Thymus,5,0,0.0
+Treg,Thymus,6,0,0.0
+Treg,Thymus,>=7,0,0.0
+abT(entry),Thymus,1,3250,0.9869419981779533
+abT(entry),Thymus,2,39,0.011843303978135438
+abT(entry),Thymus,3,4,0.0012146978439113271
+abT(entry),Thymus,4,0,0.0
+abT(entry),Thymus,5,0,0.0
+abT(entry),Thymus,6,0,0.0
+abT(entry),Thymus,>=7,0,0.0
+Cycling Treg,PBMC,1,19,0.95
+Cycling Treg,PBMC,2,1,0.05
+Cycling Treg,PBMC,3,0,0.0
+Cycling Treg,PBMC,4,0,0.0
+Cycling Treg,PBMC,5,0,0.0
+Cycling Treg,PBMC,6,0,0.0
+Cycling Treg,PBMC,>=7,0,0.0
+GNG4 +CD8aa+T,PBMC,1,10,1.0
+GNG4 +CD8aa+T,PBMC,2,0,0.0
+GNG4 +CD8aa+T,PBMC,3,0,0.0
+GNG4 +CD8aa+T,PBMC,4,0,0.0
+GNG4 +CD8aa+T,PBMC,5,0,0.0
+GNG4 +CD8aa+T,PBMC,6,0,0.0
+GNG4 +CD8aa+T,PBMC,>=7,0,0.0
+ILC2/3,PBMC,1,3,0.6
+ILC2/3,PBMC,2,2,0.4
+ILC2/3,PBMC,3,0,0.0
+ILC2/3,PBMC,4,0,0.0
+ILC2/3,PBMC,5,0,0.0
+ILC2/3,PBMC,6,0,0.0
+ILC2/3,PBMC,>=7,0,0.0
+NK T,PBMC,1,547,0.9927404718693285
+NK T,PBMC,2,4,0.007259528130671506
+NK T,PBMC,3,0,0.0
+NK T,PBMC,4,0,0.0
+NK T,PBMC,5,0,0.0
+NK T,PBMC,6,0,0.0
+NK T,PBMC,>=7,0,0.0
+Naïve CD4 T,PBMC,1,27079,0.9931416416049292
+Naïve CD4 T,PBMC,2,175,0.00641824983495929
+Naïve CD4 T,PBMC,3,12,0.00044010856011149417
+Naïve CD4 T,PBMC,4,0,0.0
+Naïve CD4 T,PBMC,5,0,0.0
+Naïve CD4 T,PBMC,6,0,0.0
+Naïve CD4 T,PBMC,>=7,0,0.0
+Naïve CD8 T,PBMC,1,9839,0.9913350125944584
+Naïve CD8 T,PBMC,2,77,0.007758186397984887
+Naïve CD8 T,PBMC,3,9,0.0009068010075566751
+Naïve CD8 T,PBMC,4,0,0.0
+Naïve CD8 T,PBMC,5,0,0.0
+Naïve CD8 T,PBMC,6,0,0.0
+Naïve CD8 T,PBMC,>=7,0,0.0
+Tem,PBMC,1,335,0.97953216374269
+Tem,PBMC,2,7,0.02046783625730994
+Tem,PBMC,3,0,0.0
+Tem,PBMC,4,0,0.0
+Tem,PBMC,5,0,0.0
+Tem,PBMC,6,0,0.0
+Tem,PBMC,>=7,0,0.0
+Th17like_INNATE_T,PBMC,1,1468,0.9878869448183042
+Th17like_INNATE_T,PBMC,2,15,0.010094212651413189
+Th17like_INNATE_T,PBMC,3,1,0.0006729475100942127
+Th17like_INNATE_T,PBMC,4,2,0.0013458950201884253
+Th17like_INNATE_T,PBMC,5,0,0.0
+Th17like_INNATE_T,PBMC,6,0,0.0
+Th17like_INNATE_T,PBMC,>=7,0,0.0
+Treg,PBMC,1,2616,0.9864253393665159
+Treg,PBMC,2,29,0.010935143288084464
+Treg,PBMC,3,5,0.001885369532428356
+Treg,PBMC,4,2,0.0007541478129713424
+Treg,PBMC,5,0,0.0
+Treg,PBMC,6,0,0.0
+Treg,PBMC,>=7,0,0.0
+abT(entry),PBMC,1,318,1.0
+abT(entry),PBMC,2,0,0.0
+abT(entry),PBMC,3,0,0.0
+abT(entry),PBMC,4,0,0.0
+abT(entry),PBMC,5,0,0.0
+abT(entry),PBMC,6,0,0.0
+abT(entry),PBMC,>=7,0,0.0

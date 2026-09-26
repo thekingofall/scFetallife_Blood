@@ -1,0 +1,39 @@
+cell_type	cell_count
+CD14+PPBP+ Monocytes	739
+CD56highCD16low NK	489
+CX3CR1+ NK	11141
+CXCR5+ Naïve B	15167
+CXCR5- Naïve B	4504
+CXCR6+ NK	969
+Classical Monocytes	28439
+Cycling Treg	36
+DC1	29
+DC2	1213
+DN(Q) T	10
+DP(P) T	1
+Early_ERY	1618
+Endothelial cells	8
+GNG4 +CD8aa+T	28
+Gamma Delta V1 T	264
+Gamma Delta V2 T	954
+HSC_MPP	2545
+ILC2/3	179
+Large pre-B	60
+Late_ERY	25722
+MEMP	1580
+MEP	939
+Macrophages	29
+Megakaryocytes	3721
+Mid_ERY	6427
+Myeloid-CD177	1432
+NK T	775
+Naïve CD4 T	33990
+Naïve CD8 T	11500
+Others	87
+Pro-B	146
+Small pre-B	4
+Tem	409
+Th17like_INNATE_T	1805
+Treg	3361
+abT(entry)	1207
+pDC	565

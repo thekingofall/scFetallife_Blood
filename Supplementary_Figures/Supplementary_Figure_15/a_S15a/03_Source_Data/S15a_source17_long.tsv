@@ -1,0 +1,460 @@
+MainID	Tissue	source_feature	Percentage
+B12.0_P2	PBMC	CXCR5-B	0.15
+B12.0_P2	PBMC	CXCR5+B	0.013
+B12.0_P2	PBMC	Immature NK	0
+B12.0_P2	PBMC	Mature NK	0.00662
+B12.0_P2	PBMC	Central memory-like CD8+T	0
+B12.0_P2	PBMC	Naive CD8+T	0
+B12.0_P2	PBMC	Effective memory-like CD8+T	0
+B12.0_P2	PBMC	Terminal differentiated CD8+T	0
+B12.0_P2	PBMC	Central memory-like CD4+T	0
+B12.0_P2	PBMC	Naive CD4+T	0.00331
+B12.0_P2	PBMC	Effective memory-like CD4+T	0
+B12.0_P2	PBMC	Terminal differentiated CD4+T	0
+B12.0_P2	PBMC	DNT	0.073
+B12.0_P2	PBMC	LDP	0.017
+B12.0_P2	PBMC	EDP	0
+B12.0_P2	PBMC	CD8+ISP	0.03
+B12.0_P2	PBMC	CD4+ISP	0.00331
+B17.4_P3	PBMC	CXCR5-B	0.04
+B17.4_P3	PBMC	CXCR5+B	0.000332
+B17.4_P3	PBMC	Immature NK	0.024
+B17.4_P3	PBMC	Mature NK	0.12
+B17.4_P3	PBMC	Central memory-like CD8+T	0
+B17.4_P3	PBMC	Naive CD8+T	0.26
+B17.4_P3	PBMC	Effective memory-like CD8+T	0.000499
+B17.4_P3	PBMC	Terminal differentiated CD8+T	0.014
+B17.4_P3	PBMC	Central memory-like CD4+T	0
+B17.4_P3	PBMC	Naive CD4+T	1.08
+B17.4_P3	PBMC	Effective memory-like CD4+T	0
+B17.4_P3	PBMC	Terminal differentiated CD4+T	0.09
+B17.4_P3	PBMC	DNT	0.046
+B17.4_P3	PBMC	LDP	0.00216
+B17.4_P3	PBMC	EDP	0.000166
+B17.4_P3	PBMC	CD8+ISP	0.056
+B17.4_P3	PBMC	CD4+ISP	0.074
+B18.0_P4	PBMC	CXCR5-B	2.44
+B18.0_P4	PBMC	CXCR5+B	4.22
+B18.0_P4	PBMC	Immature NK	0.34
+B18.0_P4	PBMC	Mature NK	1.77
+B18.0_P4	PBMC	Central memory-like CD8+T	1.36
+B18.0_P4	PBMC	Naive CD8+T	15.6
+B18.0_P4	PBMC	Effective memory-like CD8+T	0.26
+B18.0_P4	PBMC	Terminal differentiated CD8+T	0.58
+B18.0_P4	PBMC	Central memory-like CD4+T	8.09
+B18.0_P4	PBMC	Naive CD4+T	37.6
+B18.0_P4	PBMC	Effective memory-like CD4+T	4.94
+B18.0_P4	PBMC	Terminal differentiated CD4+T	2.12
+B18.0_P4	PBMC	DNT	1.98
+B18.0_P4	PBMC	LDP	0.43
+B18.0_P4	PBMC	EDP	0.00416
+B18.0_P4	PBMC	CD8+ISP	0.077
+B18.0_P4	PBMC	CD4+ISP	0.38
+B18.6_P5	PBMC	CXCR5-B	5.47
+B18.6_P5	PBMC	CXCR5+B	1.68
+B18.6_P5	PBMC	Immature NK	2.15
+B18.6_P5	PBMC	Mature NK	22.7
+B18.6_P5	PBMC	Central memory-like CD8+T	2.14
+B18.6_P5	PBMC	Naive CD8+T	9.48
+B18.6_P5	PBMC	Effective memory-like CD8+T	0.25
+B18.6_P5	PBMC	Terminal differentiated CD8+T	0.23
+B18.6_P5	PBMC	Central memory-like CD4+T	6.45
+B18.6_P5	PBMC	Naive CD4+T	24.4
+B18.6_P5	PBMC	Effective memory-like CD4+T	1.54
+B18.6_P5	PBMC	Terminal differentiated CD4+T	0.54
+B18.6_P5	PBMC	DNT	1.29
+B18.6_P5	PBMC	LDP	0.27
+B18.6_P5	PBMC	EDP	0.00754
+B18.6_P5	PBMC	CD8+ISP	0.77
+B18.6_P5	PBMC	CD4+ISP	0.55
+B20.9_P7	PBMC	CXCR5-B	2.08
+B20.9_P7	PBMC	CXCR5+B	4.54
+B20.9_P7	PBMC	Immature NK	1.16
+B20.9_P7	PBMC	Mature NK	4.06
+B20.9_P7	PBMC	Central memory-like CD8+T	0.57
+B20.9_P7	PBMC	Naive CD8+T	6.47
+B20.9_P7	PBMC	Effective memory-like CD8+T	0.062
+B20.9_P7	PBMC	Terminal differentiated CD8+T	0.1
+B20.9_P7	PBMC	Central memory-like CD4+T	8.3
+B20.9_P7	PBMC	Naive CD4+T	37.4
+B20.9_P7	PBMC	Effective memory-like CD4+T	2.48
+B20.9_P7	PBMC	Terminal differentiated CD4+T	0.79
+B20.9_P7	PBMC	DNT	22
+B20.9_P7	PBMC	LDP	0.094
+B20.9_P7	PBMC	EDP	0.00139
+B20.9_P7	PBMC	CD8+ISP	0.092
+B20.9_P7	PBMC	CD4+ISP	0.55
+B21.7_P8	PBMC	CXCR5-B	0.84
+B21.7_P8	PBMC	CXCR5+B	0.15
+B21.7_P8	PBMC	Immature NK	0.36
+B21.7_P8	PBMC	Mature NK	2.14
+B21.7_P8	PBMC	Central memory-like CD8+T	0.059
+B21.7_P8	PBMC	Naive CD8+T	0.62
+B21.7_P8	PBMC	Effective memory-like CD8+T	0.016
+B21.7_P8	PBMC	Terminal differentiated CD8+T	0.023
+B21.7_P8	PBMC	Central memory-like CD4+T	0.19
+B21.7_P8	PBMC	Naive CD4+T	1.87
+B21.7_P8	PBMC	Effective memory-like CD4+T	0.076
+B21.7_P8	PBMC	Terminal differentiated CD4+T	0.038
+B21.7_P8	PBMC	DNT	0.1
+B21.7_P8	PBMC	LDP	0.029
+B21.7_P8	PBMC	EDP	0
+B21.7_P8	PBMC	CD8+ISP	0.043
+B21.7_P8	PBMC	CD4+ISP	0.04
+B22.4_P9	PBMC	CXCR5-B	0.87
+B22.4_P9	PBMC	CXCR5+B	1.33
+B22.4_P9	PBMC	Immature NK	0.24
+B22.4_P9	PBMC	Mature NK	1.97
+B22.4_P9	PBMC	Central memory-like CD8+T	1.42
+B22.4_P9	PBMC	Naive CD8+T	10.3
+B22.4_P9	PBMC	Effective memory-like CD8+T	0.12
+B22.4_P9	PBMC	Terminal differentiated CD8+T	0.22
+B22.4_P9	PBMC	Central memory-like CD4+T	12.1
+B22.4_P9	PBMC	Naive CD4+T	36.4
+B22.4_P9	PBMC	Effective memory-like CD4+T	1.46
+B22.4_P9	PBMC	Terminal differentiated CD4+T	0.38
+B22.4_P9	PBMC	DNT	1.91
+B22.4_P9	PBMC	LDP	0.36
+B22.4_P9	PBMC	EDP	0.00446
+B22.4_P9	PBMC	CD8+ISP	0.06
+B22.4_P9	PBMC	CD4+ISP	0.19
+B23.4_P10	PBMC	CXCR5-B	1.19
+B23.4_P10	PBMC	CXCR5+B	1.27
+B23.4_P10	PBMC	Immature NK	0.77
+B23.4_P10	PBMC	Mature NK	2.25
+B23.4_P10	PBMC	Central memory-like CD8+T	0.45
+B23.4_P10	PBMC	Naive CD8+T	19.9
+B23.4_P10	PBMC	Effective memory-like CD8+T	0.11
+B23.4_P10	PBMC	Terminal differentiated CD8+T	0.48
+B23.4_P10	PBMC	Central memory-like CD4+T	6.6
+B23.4_P10	PBMC	Naive CD4+T	52.4
+B23.4_P10	PBMC	Effective memory-like CD4+T	1.95
+B23.4_P10	PBMC	Terminal differentiated CD4+T	1.25
+B23.4_P10	PBMC	DNT	1.56
+B23.4_P10	PBMC	LDP	0.27
+B23.4_P10	PBMC	EDP	0.00235
+B23.4_P10	PBMC	CD8+ISP	0.096
+B23.4_P10	PBMC	CD4+ISP	0.52
+B24.6_P11	PBMC	CXCR5-B	11
+B24.6_P11	PBMC	CXCR5+B	3.23
+B24.6_P11	PBMC	Immature NK	3.9
+B24.6_P11	PBMC	Mature NK	12.7
+B24.6_P11	PBMC	Central memory-like CD8+T	0.7
+B24.6_P11	PBMC	Naive CD8+T	4.43
+B24.6_P11	PBMC	Effective memory-like CD8+T	0.14
+B24.6_P11	PBMC	Terminal differentiated CD8+T	0.2
+B24.6_P11	PBMC	Central memory-like CD4+T	2.1
+B24.6_P11	PBMC	Naive CD4+T	10
+B24.6_P11	PBMC	Effective memory-like CD4+T	0.39
+B24.6_P11	PBMC	Terminal differentiated CD4+T	0.12
+B24.6_P11	PBMC	DNT	0.52
+B24.6_P11	PBMC	LDP	0.087
+B24.6_P11	PBMC	EDP	0.00151
+B24.6_P11	PBMC	CD8+ISP	0.55
+B24.6_P11	PBMC	CD4+ISP	2.66
+B26.9_P12	PBMC	CXCR5-B	0.2
+B26.9_P12	PBMC	CXCR5+B	0.21
+B26.9_P12	PBMC	Immature NK	0.06
+B26.9_P12	PBMC	Mature NK	0.62
+B26.9_P12	PBMC	Central memory-like CD8+T	0.047
+B26.9_P12	PBMC	Naive CD8+T	1.49
+B26.9_P12	PBMC	Effective memory-like CD8+T	0.015
+B26.9_P12	PBMC	Terminal differentiated CD8+T	0.065
+B26.9_P12	PBMC	Central memory-like CD4+T	0.31
+B26.9_P12	PBMC	Naive CD4+T	4.44
+B26.9_P12	PBMC	Effective memory-like CD4+T	0.1
+B26.9_P12	PBMC	Terminal differentiated CD4+T	0.13
+B26.9_P12	PBMC	DNT	0.1
+B26.9_P12	PBMC	LDP	0.025
+B26.9_P12	PBMC	EDP	0.000425
+B26.9_P12	PBMC	CD8+ISP	0.064
+B26.9_P12	PBMC	CD4+ISP	0.032
+B29.1_P13	PBMC	CXCR5-B	2.85
+B29.1_P13	PBMC	CXCR5+B	2.9
+B29.1_P13	PBMC	Immature NK	1.1
+B29.1_P13	PBMC	Mature NK	6.95
+B29.1_P13	PBMC	Central memory-like CD8+T	1.52
+B29.1_P13	PBMC	Naive CD8+T	7.25
+B29.1_P13	PBMC	Effective memory-like CD8+T	0.3
+B29.1_P13	PBMC	Terminal differentiated CD8+T	0.15
+B29.1_P13	PBMC	Central memory-like CD4+T	6.99
+B29.1_P13	PBMC	Naive CD4+T	33
+B29.1_P13	PBMC	Effective memory-like CD4+T	0.63
+B29.1_P13	PBMC	Terminal differentiated CD4+T	0.17
+B29.1_P13	PBMC	DNT	0.53
+B29.1_P13	PBMC	LDP	0.083
+B29.1_P13	PBMC	EDP	0
+B29.1_P13	PBMC	CD8+ISP	0.25
+B29.1_P13	PBMC	CD4+ISP	0.97
+B31.3_P15	PBMC	CXCR5-B	2.49
+B31.3_P15	PBMC	CXCR5+B	1.97
+B31.3_P15	PBMC	Immature NK	1.47
+B31.3_P15	PBMC	Mature NK	7.44
+B31.3_P15	PBMC	Central memory-like CD8+T	0.47
+B31.3_P15	PBMC	Naive CD8+T	4.92
+B31.3_P15	PBMC	Effective memory-like CD8+T	0.26
+B31.3_P15	PBMC	Terminal differentiated CD8+T	0.24
+B31.3_P15	PBMC	Central memory-like CD4+T	4.97
+B31.3_P15	PBMC	Naive CD4+T	33.7
+B31.3_P15	PBMC	Effective memory-like CD4+T	0.68
+B31.3_P15	PBMC	Terminal differentiated CD4+T	0.3
+B31.3_P15	PBMC	DNT	1.05
+B31.3_P15	PBMC	LDP	0.33
+B31.3_P15	PBMC	EDP	0.00433
+B31.3_P15	PBMC	CD8+ISP	0.34
+B31.3_P15	PBMC	CD4+ISP	1.34
+B32.4_P16	PBMC	CXCR5-B	1.51
+B32.4_P16	PBMC	CXCR5+B	6.87
+B32.4_P16	PBMC	Immature NK	1.89
+B32.4_P16	PBMC	Mature NK	24.4
+B32.4_P16	PBMC	Central memory-like CD8+T	0.49
+B32.4_P16	PBMC	Naive CD8+T	11.3
+B32.4_P16	PBMC	Effective memory-like CD8+T	0.27
+B32.4_P16	PBMC	Terminal differentiated CD8+T	0.62
+B32.4_P16	PBMC	Central memory-like CD4+T	2.97
+B32.4_P16	PBMC	Naive CD4+T	28
+B32.4_P16	PBMC	Effective memory-like CD4+T	1.04
+B32.4_P16	PBMC	Terminal differentiated CD4+T	0.65
+B32.4_P16	PBMC	DNT	1.54
+B32.4_P16	PBMC	LDP	0.21
+B32.4_P16	PBMC	EDP	0.00241
+B32.4_P16	PBMC	CD8+ISP	1.05
+B32.4_P16	PBMC	CD4+ISP	0.35
+B33.3_P17	PBMC	CXCR5-B	0.26
+B33.3_P17	PBMC	CXCR5+B	1.12
+B33.3_P17	PBMC	Immature NK	0.5
+B33.3_P17	PBMC	Mature NK	2.3
+B33.3_P17	PBMC	Central memory-like CD8+T	0.66
+B33.3_P17	PBMC	Naive CD8+T	8.25
+B33.3_P17	PBMC	Effective memory-like CD8+T	0.16
+B33.3_P17	PBMC	Terminal differentiated CD8+T	0.26
+B33.3_P17	PBMC	Central memory-like CD4+T	8.63
+B33.3_P17	PBMC	Naive CD4+T	56.3
+B33.3_P17	PBMC	Effective memory-like CD4+T	0.82
+B33.3_P17	PBMC	Terminal differentiated CD4+T	0.36
+B33.3_P17	PBMC	DNT	1.27
+B33.3_P17	PBMC	LDP	0.33
+B33.3_P17	PBMC	EDP	0.0067
+B33.3_P17	PBMC	CD8+ISP	0.24
+B33.3_P17	PBMC	CD4+ISP	0.48
+B34.1_P18	PBMC	CXCR5-B	0.59
+B34.1_P18	PBMC	CXCR5+B	4.46
+B34.1_P18	PBMC	Immature NK	0.82
+B34.1_P18	PBMC	Mature NK	9.77
+B34.1_P18	PBMC	Central memory-like CD8+T	0.34
+B34.1_P18	PBMC	Naive CD8+T	12.5
+B34.1_P18	PBMC	Effective memory-like CD8+T	0.09
+B34.1_P18	PBMC	Terminal differentiated CD8+T	0.34
+B34.1_P18	PBMC	Central memory-like CD4+T	3.57
+B34.1_P18	PBMC	Naive CD4+T	53.1
+B34.1_P18	PBMC	Effective memory-like CD4+T	0.69
+B34.1_P18	PBMC	Terminal differentiated CD4+T	0.41
+B34.1_P18	PBMC	DNT	1.61
+B34.1_P18	PBMC	LDP	0.35
+B34.1_P18	PBMC	EDP	0.00801
+B34.1_P18	PBMC	CD8+ISP	0.49
+B34.1_P18	PBMC	CD4+ISP	0.4
+B36.1_P19	PBMC	CXCR5-B	0.38
+B36.1_P19	PBMC	CXCR5+B	2.72
+B36.1_P19	PBMC	Immature NK	0.49
+B36.1_P19	PBMC	Mature NK	8.49
+B36.1_P19	PBMC	Central memory-like CD8+T	0.2
+B36.1_P19	PBMC	Naive CD8+T	10.3
+B36.1_P19	PBMC	Effective memory-like CD8+T	0.11
+B36.1_P19	PBMC	Terminal differentiated CD8+T	0.31
+B36.1_P19	PBMC	Central memory-like CD4+T	3.54
+B36.1_P19	PBMC	Naive CD4+T	57
+B36.1_P19	PBMC	Effective memory-like CD4+T	0.37
+B36.1_P19	PBMC	Terminal differentiated CD4+T	0.5
+B36.1_P19	PBMC	DNT	2.93
+B36.1_P19	PBMC	LDP	0.2
+B36.1_P19	PBMC	EDP	0.00557
+B36.1_P19	PBMC	CD8+ISP	0.19
+B36.1_P19	PBMC	CD4+ISP	0.49
+B37.9_P20	PBMC	CXCR5-B	0.21
+B37.9_P20	PBMC	CXCR5+B	2.67
+B37.9_P20	PBMC	Immature NK	1
+B37.9_P20	PBMC	Mature NK	3.93
+B37.9_P20	PBMC	Central memory-like CD8+T	2.24
+B37.9_P20	PBMC	Naive CD8+T	21.4
+B37.9_P20	PBMC	Effective memory-like CD8+T	0.67
+B37.9_P20	PBMC	Terminal differentiated CD8+T	0.31
+B37.9_P20	PBMC	Central memory-like CD4+T	4.84
+B37.9_P20	PBMC	Naive CD4+T	43.9
+B37.9_P20	PBMC	Effective memory-like CD4+T	0.31
+B37.9_P20	PBMC	Terminal differentiated CD4+T	0.081
+B37.9_P20	PBMC	DNT	1.89
+B37.9_P20	PBMC	LDP	0.3
+B37.9_P20	PBMC	EDP	0.012
+B37.9_P20	PBMC	CD8+ISP	0.14
+B37.9_P20	PBMC	CD4+ISP	0.27
+B38.1_P21	PBMC	CXCR5-B	0.4
+B38.1_P21	PBMC	CXCR5+B	3.61
+B38.1_P21	PBMC	Immature NK	2.3
+B38.1_P21	PBMC	Mature NK	10.6
+B38.1_P21	PBMC	Central memory-like CD8+T	0.89
+B38.1_P21	PBMC	Naive CD8+T	16
+B38.1_P21	PBMC	Effective memory-like CD8+T	0.4
+B38.1_P21	PBMC	Terminal differentiated CD8+T	0.36
+B38.1_P21	PBMC	Central memory-like CD4+T	4.72
+B38.1_P21	PBMC	Naive CD4+T	46.6
+B38.1_P21	PBMC	Effective memory-like CD4+T	0.7
+B38.1_P21	PBMC	Terminal differentiated CD4+T	0.2
+B38.1_P21	PBMC	DNT	1.31
+B38.1_P21	PBMC	LDP	0.18
+B38.1_P21	PBMC	EDP	0.000948
+B38.1_P21	PBMC	CD8+ISP	0.13
+B38.1_P21	PBMC	CD4+ISP	0.53
+B39.1_P22	PBMC	CXCR5-B	0.38
+B39.1_P22	PBMC	CXCR5+B	4.87
+B39.1_P22	PBMC	Immature NK	0.28
+B39.1_P22	PBMC	Mature NK	5.7
+B39.1_P22	PBMC	Central memory-like CD8+T	2.33
+B39.1_P22	PBMC	Naive CD8+T	11.7
+B39.1_P22	PBMC	Effective memory-like CD8+T	0.42
+B39.1_P22	PBMC	Terminal differentiated CD8+T	0.69
+B39.1_P22	PBMC	Central memory-like CD4+T	10.1
+B39.1_P22	PBMC	Naive CD4+T	43.9
+B39.1_P22	PBMC	Effective memory-like CD4+T	0.79
+B39.1_P22	PBMC	Terminal differentiated CD4+T	0.31
+B39.1_P22	PBMC	DNT	10.1
+B39.1_P22	PBMC	LDP	0.43
+B39.1_P22	PBMC	EDP	0.012
+B39.1_P22	PBMC	CD8+ISP	0.7
+B39.1_P22	PBMC	CD4+ISP	0.24
+L10.0_P1	Liver	CXCR5-B	4.98
+L10.0_P1	Liver	CXCR5+B	2.72
+L10.0_P1	Liver	Immature NK	9.39
+L10.0_P1	Liver	Mature NK	1.48
+L10.0_P1	Liver	Central memory-like CD8+T	0.034
+L10.0_P1	Liver	Naive CD8+T	0.024
+L10.0_P1	Liver	Effective memory-like CD8+T	0.024
+L10.0_P1	Liver	Terminal differentiated CD8+T	0.018
+L10.0_P1	Liver	Central memory-like CD4+T	0.072
+L10.0_P1	Liver	Naive CD4+T	0.06
+L10.0_P1	Liver	Effective memory-like CD4+T	0.049
+L10.0_P1	Liver	Terminal differentiated CD4+T	0.016
+L10.0_P1	Liver	DNT	0.078
+L10.0_P1	Liver	LDP	0.033
+L10.0_P1	Liver	EDP	0.1
+L10.0_P1	Liver	CD8+ISP	0.093
+L10.0_P1	Liver	CD4+ISP	2.92
+L18.6_P5	Liver	CXCR5-B	9.17
+L18.6_P5	Liver	CXCR5+B	6.36
+L18.6_P5	Liver	Immature NK	21
+L18.6_P5	Liver	Mature NK	2.15
+L18.6_P5	Liver	Central memory-like CD8+T	0.14
+L18.6_P5	Liver	Naive CD8+T	1.34
+L18.6_P5	Liver	Effective memory-like CD8+T	0.17
+L18.6_P5	Liver	Terminal differentiated CD8+T	0.37
+L18.6_P5	Liver	Central memory-like CD4+T	0.34
+L18.6_P5	Liver	Naive CD4+T	1.98
+L18.6_P5	Liver	Effective memory-like CD4+T	0.42
+L18.6_P5	Liver	Terminal differentiated CD4+T	0.25
+L18.6_P5	Liver	DNT	0.43
+L18.6_P5	Liver	LDP	0.079
+L18.6_P5	Liver	EDP	0.00385
+L18.6_P5	Liver	CD8+ISP	0.22
+L18.6_P5	Liver	CD4+ISP	3.2
+L24.6_P11	Liver	CXCR5-B	37
+L24.6_P11	Liver	CXCR5+B	2.99
+L24.6_P11	Liver	Immature NK	9.16
+L24.6_P11	Liver	Mature NK	1.26
+L24.6_P11	Liver	Central memory-like CD8+T	0.082
+L24.6_P11	Liver	Naive CD8+T	0.56
+L24.6_P11	Liver	Effective memory-like CD8+T	0.087
+L24.6_P11	Liver	Terminal differentiated CD8+T	0.14
+L24.6_P11	Liver	Central memory-like CD4+T	0.15
+L24.6_P11	Liver	Naive CD4+T	0.51
+L24.6_P11	Liver	Effective memory-like CD4+T	0.16
+L24.6_P11	Liver	Terminal differentiated CD4+T	0.12
+L24.6_P11	Liver	DNT	0.21
+L24.6_P11	Liver	LDP	0.032
+L24.6_P11	Liver	EDP	0.01
+L24.6_P11	Liver	CD8+ISP	0.43
+L24.6_P11	Liver	CD4+ISP	1.46
+T10.0_P1	Thymus	CXCR5-B	0.51
+T10.0_P1	Thymus	CXCR5+B	0.094
+T10.0_P1	Thymus	Immature NK	1.96
+T10.0_P1	Thymus	Mature NK	0.53
+T10.0_P1	Thymus	Central memory-like CD8+T	1.2
+T10.0_P1	Thymus	Naive CD8+T	0.6
+T10.0_P1	Thymus	Effective memory-like CD8+T	2.67
+T10.0_P1	Thymus	Terminal differentiated CD8+T	0.75
+T10.0_P1	Thymus	Central memory-like CD4+T	8.36
+T10.0_P1	Thymus	Naive CD4+T	3.75
+T10.0_P1	Thymus	Effective memory-like CD4+T	8.17
+T10.0_P1	Thymus	Terminal differentiated CD4+T	0.51
+T10.0_P1	Thymus	DNT	2.07
+T10.0_P1	Thymus	LDP	12.2
+T10.0_P1	Thymus	EDP	32.1
+T10.0_P1	Thymus	CD8+ISP	0.33
+T10.0_P1	Thymus	CD4+ISP	15.1
+T18.6_P5	Thymus	CXCR5-B	0.17
+T18.6_P5	Thymus	CXCR5+B	0.69
+T18.6_P5	Thymus	Immature NK	0.47
+T18.6_P5	Thymus	Mature NK	0.083
+T18.6_P5	Thymus	Central memory-like CD8+T	5.22
+T18.6_P5	Thymus	Naive CD8+T	6.83
+T18.6_P5	Thymus	Effective memory-like CD8+T	4.35
+T18.6_P5	Thymus	Terminal differentiated CD8+T	1.83
+T18.6_P5	Thymus	Central memory-like CD4+T	13.8
+T18.6_P5	Thymus	Naive CD4+T	12.2
+T18.6_P5	Thymus	Effective memory-like CD4+T	13.4
+T18.6_P5	Thymus	Terminal differentiated CD4+T	0.99
+T18.6_P5	Thymus	DNT	3.05
+T18.6_P5	Thymus	LDP	7.19
+T18.6_P5	Thymus	EDP	13.7
+T18.6_P5	Thymus	CD8+ISP	0.22
+T18.6_P5	Thymus	CD4+ISP	8.46
+T24.6_P11	Thymus	CXCR5-B	0.2
+T24.6_P11	Thymus	CXCR5+B	0.27
+T24.6_P11	Thymus	Immature NK	0.044
+T24.6_P11	Thymus	Mature NK	0.017
+T24.6_P11	Thymus	Central memory-like CD8+T	4.18
+T24.6_P11	Thymus	Naive CD8+T	2.27
+T24.6_P11	Thymus	Effective memory-like CD8+T	5.36
+T24.6_P11	Thymus	Terminal differentiated CD8+T	0.49
+T24.6_P11	Thymus	Central memory-like CD4+T	2.7
+T24.6_P11	Thymus	Naive CD4+T	1
+T24.6_P11	Thymus	Effective memory-like CD4+T	2.28
+T24.6_P11	Thymus	Terminal differentiated CD4+T	0.071
+T24.6_P11	Thymus	DNT	24.2
+T24.6_P11	Thymus	LDP	6.21
+T24.6_P11	Thymus	EDP	9.65
+T24.6_P11	Thymus	CD8+ISP	4.46
+T24.6_P11	Thymus	CD4+ISP	3.73
+S18.6_P5	Spleen	CXCR5-B	2.45
+S18.6_P5	Spleen	CXCR5+B	11.1
+S18.6_P5	Spleen	Immature NK	19.4
+S18.6_P5	Spleen	Mature NK	3.27
+S18.6_P5	Spleen	Central memory-like CD8+T	1.04
+S18.6_P5	Spleen	Naive CD8+T	10.9
+S18.6_P5	Spleen	Effective memory-like CD8+T	1.85
+S18.6_P5	Spleen	Terminal differentiated CD8+T	3.37
+S18.6_P5	Spleen	Central memory-like CD4+T	3.36
+S18.6_P5	Spleen	Naive CD4+T	13.2
+S18.6_P5	Spleen	Effective memory-like CD4+T	4.01
+S18.6_P5	Spleen	Terminal differentiated CD4+T	1.81
+S18.6_P5	Spleen	DNT	5.28
+S18.6_P5	Spleen	LDP	0.55
+S18.6_P5	Spleen	EDP	0.00972
+S18.6_P5	Spleen	CD8+ISP	0.67
+S18.6_P5	Spleen	CD4+ISP	1
+S24.6_P11	Spleen	CXCR5-B	2.55
+S24.6_P11	Spleen	CXCR5+B	21.1
+S24.6_P11	Spleen	Immature NK	15.4
+S24.6_P11	Spleen	Mature NK	0.8
+S24.6_P11	Spleen	Central memory-like CD8+T	1.57
+S24.6_P11	Spleen	Naive CD8+T	7.91
+S24.6_P11	Spleen	Effective memory-like CD8+T	2.31
+S24.6_P11	Spleen	Terminal differentiated CD8+T	1.55
+S24.6_P11	Spleen	Central memory-like CD4+T	4.63
+S24.6_P11	Spleen	Naive CD4+T	9.12
+S24.6_P11	Spleen	Effective memory-like CD4+T	3.31
+S24.6_P11	Spleen	Terminal differentiated CD4+T	0.5
+S24.6_P11	Spleen	DNT	1.86
+S24.6_P11	Spleen	LDP	0.31
+S24.6_P11	Spleen	EDP	0.0045
+S24.6_P11	Spleen	CD8+ISP	1.37
+S24.6_P11	Spleen	CD4+ISP	1.41

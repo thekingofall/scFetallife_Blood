@@ -1,0 +1,8 @@
+"Stage","CanonicalModule","CanonicalLabel","GeneCount","ContributingFreshModules"
+"Late","M1-ERY","M1 Erythroid",391,"1,10"
+"Late","M2-Mono","M2 Monocyte",724,"3,5,6,11"
+"Late","M3-MK","M3 Megakaryocyte",408,"2,8"
+"Late","M4-STEM","M4 Stem/progenitor",122,"12,15"
+"Late","M5-Bcell","M5 B cell",294,"7,13"
+"Late","M6-NK","M6 NK cell",187,"4"
+"Late","M7-Tcell","M7 T cell",287,"9,14"

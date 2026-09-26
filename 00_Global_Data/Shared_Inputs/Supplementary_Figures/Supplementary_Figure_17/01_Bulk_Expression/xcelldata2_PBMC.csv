@@ -1,0 +1,625 @@
+"","cell_type","sample","fraction","sample_numeric"
+"1","Myeloid dendritic cell activated","B19.P3",0,1
+"2","B cell","B19.P3",1.98501124664392e-18,1
+"3","T cell CD4+ memory","B19.P3",0.00833198136716828,1
+"4","T cell CD4+ naive","B19.P3",0,1
+"5","T cell CD4+ (non-regulatory)","B19.P3",0.0228749564667981,1
+"6","T cell CD4+ central memory","B19.P3",0.0485341532327758,1
+"7","T cell CD4+ effector memory","B19.P3",0.0304559577469888,1
+"8","T cell CD8+ naive","B19.P3",4.19646356749495e-19,1
+"9","T cell CD8+","B19.P3",0,1
+"10","T cell CD8+ central memory","B19.P3",0,1
+"11","T cell CD8+ effector memory","B19.P3",0,1
+"12","Class-switched memory B cell","B19.P3",0,1
+"13","Common lymphoid progenitor","B19.P3",2.49343353001859e-18,1
+"14","Common myeloid progenitor","B19.P3",0.0467611260001926,1
+"15","Myeloid dendritic cell","B19.P3",0.00494173001941852,1
+"16","Endothelial cell","B19.P3",0.00024888394060484,1
+"17","Eosinophil","B19.P3",0,1
+"18","Cancer associated fibroblast","B19.P3",2.78666288819155e-19,1
+"19","Granulocyte-monocyte progenitor","B19.P3",0.0849897159122789,1
+"20","Hematopoietic stem cell","B19.P3",0.0330773635227324,1
+"21","Macrophage","B19.P3",0,1
+"22","Macrophage M1","B19.P3",0,1
+"23","Macrophage M2","B19.P3",0.000478965189700423,1
+"24","Mast cell","B19.P3",0.0380837535193908,1
+"25","B cell memory","B19.P3",1.28723861501927e-18,1
+"26","Monocyte","B19.P3",0.000551193675901052,1
+"27","B cell naive","B19.P3",0.00100017262378136,1
+"28","Neutrophil","B19.P3",0.00106709074554122,1
+"29","NK cell","B19.P3",0,1
+"30","T cell NK","B19.P3",2.55536986929975e-18,1
+"31","Plasmacytoid dendritic cell","B19.P3",5.85325861852683e-19,1
+"32","B cell plasma","B19.P3",0,1
+"33","T cell gamma delta","B19.P3",1.13448993768098e-18,1
+"34","T cell CD4+ Th1","B19.P3",1.16066198274671e-18,1
+"35","T cell CD4+ Th2","B19.P3",0.00781211996868805,1
+"36","T cell regulatory (Tregs)","B19.P3",0,1
+"37","immune score","B19.P3",0.0450124829513665,1
+"38","stroma score","B19.P3",0.00012444197030242,1
+"39","microenvironment score","B19.P3",0.0451369249216689,1
+"40","Myeloid dendritic cell activated","B20.P4",0.00153670067176372,2
+"41","B cell","B20.P4",0.00560357525475379,2
+"42","T cell CD4+ memory","B20.P4",0.0111688424802098,2
+"43","T cell CD4+ naive","B20.P4",0.00395912813908776,2
+"44","T cell CD4+ (non-regulatory)","B20.P4",0.0282489467475813,2
+"45","T cell CD4+ central memory","B20.P4",0.021646690119963,2
+"46","T cell CD4+ effector memory","B20.P4",0.0498730112156298,2
+"47","T cell CD8+ naive","B20.P4",0.00351319531482471,2
+"48","T cell CD8+","B20.P4",0.0163194500126924,2
+"49","T cell CD8+ central memory","B20.P4",0.0270259797910151,2
+"50","T cell CD8+ effector memory","B20.P4",0.00662461613483664,2
+"51","Class-switched memory B cell","B20.P4",0.00164957065697455,2
+"52","Common lymphoid progenitor","B20.P4",0.000882924941550369,2
+"53","Common myeloid progenitor","B20.P4",1.84714273576927e-21,2
+"54","Myeloid dendritic cell","B20.P4",0.0026419103758744,2
+"55","Endothelial cell","B20.P4",0,2
+"56","Eosinophil","B20.P4",0,2
+"57","Cancer associated fibroblast","B20.P4",2.19365561399661e-20,2
+"58","Granulocyte-monocyte progenitor","B20.P4",0,2
+"59","Hematopoietic stem cell","B20.P4",1.11151010124123e-19,2
+"60","Macrophage","B20.P4",0.000276818949322812,2
+"61","Macrophage M1","B20.P4",2.0924354290834e-19,2
+"62","Macrophage M2","B20.P4",0.00176674011871455,2
+"63","Mast cell","B20.P4",0.00415854068837125,2
+"64","B cell memory","B20.P4",0.00428510341277181,2
+"65","Monocyte","B20.P4",0,2
+"66","B cell naive","B20.P4",0.00495529403179146,2
+"67","Neutrophil","B20.P4",0,2
+"68","NK cell","B20.P4",0,2
+"69","T cell NK","B20.P4",0.00337802211675637,2
+"70","Plasmacytoid dendritic cell","B20.P4",0.000433806218787541,2
+"71","B cell plasma","B20.P4",0.0047921929219592,2
+"72","T cell gamma delta","B20.P4",7.77446868794373e-20,2
+"73","T cell CD4+ Th1","B20.P4",0.022805000968527,2
+"74","T cell CD4+ Th2","B20.P4",0.123582532505447,2
+"75","T cell regulatory (Tregs)","B20.P4",0,2
+"76","immune score","B20.P4",0.0381661613523973,2
+"77","stroma score","B20.P4",7.78557335083723e-20,2
+"78","microenvironment score","B20.P4",0.0381661613523973,2
+"79","Myeloid dendritic cell activated","B21.P5",0.00173636175799158,3
+"80","B cell","B21.P5",0.0439202962035818,3
+"81","T cell CD4+ memory","B21.P5",0.0108420390359437,3
+"82","T cell CD4+ naive","B21.P5",0.00107138940372336,3
+"83","T cell CD4+ (non-regulatory)","B21.P5",0.0202231530884556,3
+"84","T cell CD4+ central memory","B21.P5",0.0102674150981963,3
+"85","T cell CD4+ effector memory","B21.P5",0.0556450288481898,3
+"86","T cell CD8+ naive","B21.P5",0.00294907487935589,3
+"87","T cell CD8+","B21.P5",0.0157675366298081,3
+"88","T cell CD8+ central memory","B21.P5",0.026526399330746,3
+"89","T cell CD8+ effector memory","B21.P5",0.0165024050550593,3
+"90","Class-switched memory B cell","B21.P5",0.00924446988282062,3
+"91","Common lymphoid progenitor","B21.P5",7.17739389662791e-19,3
+"92","Common myeloid progenitor","B21.P5",0.00538594166275514,3
+"93","Myeloid dendritic cell","B21.P5",0.00253453696401775,3
+"94","Endothelial cell","B21.P5",0.00095050424546706,3
+"95","Eosinophil","B21.P5",0.00260436020816801,3
+"96","Cancer associated fibroblast","B21.P5",0.0053921046100675,3
+"97","Granulocyte-monocyte progenitor","B21.P5",0.0200025987342726,3
+"98","Hematopoietic stem cell","B21.P5",0.011977771370333,3
+"99","Macrophage","B21.P5",0,3
+"100","Macrophage M1","B21.P5",1.72756183855233e-20,3
+"101","Macrophage M2","B21.P5",0.00107600660670207,3
+"102","Mast cell","B21.P5",0.00577466487499063,3
+"103","B cell memory","B21.P5",0.0195364412835541,3
+"104","Monocyte","B21.P5",7.96730684015177e-19,3
+"105","B cell naive","B21.P5",0.0170459260760478,3
+"106","Neutrophil","B21.P5",4.66494177514268e-19,3
+"107","NK cell","B21.P5",0.020108376692011,3
+"108","T cell NK","B21.P5",0,3
+"109","Plasmacytoid dendritic cell","B21.P5",0,3
+"110","B cell plasma","B21.P5",0.0111345366460304,3
+"111","T cell gamma delta","B21.P5",9.33430917817374e-20,3
+"112","T cell CD4+ Th1","B21.P5",0.0401754521458828,3
+"113","T cell CD4+ Th2","B21.P5",0.12764661792946,3
+"114","T cell regulatory (Tregs)","B21.P5",0,3
+"115","immune score","B21.P5",0.0739552831073553,3
+"116","stroma score","B21.P5",0.00317130442776728,3
+"117","microenvironment score","B21.P5",0.0771265875351225,3
+"118","Myeloid dendritic cell activated","B23.P7",0,4
+"119","B cell","B23.P7",0.0262571393390226,4
+"120","T cell CD4+ memory","B23.P7",0.0153982855192648,4
+"121","T cell CD4+ naive","B23.P7",0.00814769924020353,4
+"122","T cell CD4+ (non-regulatory)","B23.P7",0.0291292896701564,4
+"123","T cell CD4+ central memory","B23.P7",0.0233158236545353,4
+"124","T cell CD4+ effector memory","B23.P7",0.0430129218763934,4
+"125","T cell CD8+ naive","B23.P7",0.00770620006489393,4
+"126","T cell CD8+","B23.P7",0.0192368690491839,4
+"127","T cell CD8+ central memory","B23.P7",0.0327127702327739,4
+"128","T cell CD8+ effector memory","B23.P7",0,4
+"129","Class-switched memory B cell","B23.P7",0.00360794663823707,4
+"130","Common lymphoid progenitor","B23.P7",9.8228450681205e-20,4
+"131","Common myeloid progenitor","B23.P7",0,4
+"132","Myeloid dendritic cell","B23.P7",0.0066878765103375,4
+"133","Endothelial cell","B23.P7",1.59883866370427e-20,4
+"134","Eosinophil","B23.P7",0.00189705200039393,4
+"135","Cancer associated fibroblast","B23.P7",0.000408497848554692,4
+"136","Granulocyte-monocyte progenitor","B23.P7",0.0114563946067923,4
+"137","Hematopoietic stem cell","B23.P7",0.0171007837623973,4
+"138","Macrophage","B23.P7",0,4
+"139","Macrophage M1","B23.P7",2.83905783895072e-19,4
+"140","Macrophage M2","B23.P7",0.00189986659623575,4
+"141","Mast cell","B23.P7",0.00580759073866816,4
+"142","B cell memory","B23.P7",0.0171714438655179,4
+"143","Monocyte","B23.P7",7.35582507015082e-19,4
+"144","B cell naive","B23.P7",0.0148910621954275,4
+"145","Neutrophil","B23.P7",6.5928211493818e-20,4
+"146","NK cell","B23.P7",0,4
+"147","T cell NK","B23.P7",0,4
+"148","Plasmacytoid dendritic cell","B23.P7",1.55328375151678e-19,4
+"149","B cell plasma","B23.P7",0.00476759472528503,4
+"150","T cell gamma delta","B23.P7",0,4
+"151","T cell CD4+ Th1","B23.P7",3.85759031823295e-19,4
+"152","T cell CD4+ Th2","B23.P7",0.20148357481466,4
+"153","T cell regulatory (Tregs)","B23.P7",0,4
+"154","immune score","B23.P7",0.059343878205175,4
+"155","stroma score","B23.P7",0.000204248924277346,4
+"156","microenvironment score","B23.P7",0.0595481271294524,4
+"157","Myeloid dendritic cell activated","B24.P8",0,5
+"158","B cell","B24.P8",8.25401771314865e-19,5
+"159","T cell CD4+ memory","B24.P8",1.10415095600375e-18,5
+"160","T cell CD4+ naive","B24.P8",0,5
+"161","T cell CD4+ (non-regulatory)","B24.P8",1.88598748805736e-17,5
+"162","T cell CD4+ central memory","B24.P8",1.06027877879271e-17,5
+"163","T cell CD4+ effector memory","B24.P8",1.16363356240858e-17,5
+"164","T cell CD8+ naive","B24.P8",0,5
+"165","T cell CD8+","B24.P8",0,5
+"166","T cell CD8+ central memory","B24.P8",0,5
+"167","T cell CD8+ effector memory","B24.P8",0,5
+"168","Class-switched memory B cell","B24.P8",0,5
+"169","Common lymphoid progenitor","B24.P8",6.2544964910466e-18,5
+"170","Common myeloid progenitor","B24.P8",0.0439790679847126,5
+"171","Myeloid dendritic cell","B24.P8",0,5
+"172","Endothelial cell","B24.P8",0.0121916060036067,5
+"173","Eosinophil","B24.P8",0,5
+"174","Cancer associated fibroblast","B24.P8",1.30274423863931e-17,5
+"175","Granulocyte-monocyte progenitor","B24.P8",0.0881951807103814,5
+"176","Hematopoietic stem cell","B24.P8",0.10816970096719,5
+"177","Macrophage","B24.P8",0.00563675865034169,5
+"178","Macrophage M1","B24.P8",0.00805805195141383,5
+"179","Macrophage M2","B24.P8",0,5
+"180","Mast cell","B24.P8",0.0436859956190451,5
+"181","B cell memory","B24.P8",4.41710300547088e-17,5
+"182","Monocyte","B24.P8",7.93081608548545e-19,5
+"183","B cell naive","B24.P8",0,5
+"184","Neutrophil","B24.P8",0,5
+"185","NK cell","B24.P8",0,5
+"186","T cell NK","B24.P8",0,5
+"187","Plasmacytoid dendritic cell","B24.P8",0,5
+"188","B cell plasma","B24.P8",2.5056428916571e-19,5
+"189","T cell gamma delta","B24.P8",0,5
+"190","T cell CD4+ Th1","B24.P8",0.021256286832789,5
+"191","T cell CD4+ Th2","B24.P8",1.62295175530979e-18,5
+"192","T cell regulatory (Tregs)","B24.P8",0,5
+"193","immune score","B24.P8",0.0328818361795912,5
+"194","stroma score","B24.P8",0.00609580300180334,5
+"195","microenvironment score","B24.P8",0.0389776391813946,5
+"196","Myeloid dendritic cell activated","B24.P9",0,6
+"197","B cell","B24.P9",0,6
+"198","T cell CD4+ memory","B24.P9",0.0203378754870977,6
+"199","T cell CD4+ naive","B24.P9",0.00962214938131399,6
+"200","T cell CD4+ (non-regulatory)","B24.P9",0.042558098623761,6
+"201","T cell CD4+ central memory","B24.P9",0.0422151026855113,6
+"202","T cell CD4+ effector memory","B24.P9",0.0634092592852553,6
+"203","T cell CD8+ naive","B24.P9",0.00583867181226755,6
+"204","T cell CD8+","B24.P9",0.0147891103844876,6
+"205","T cell CD8+ central memory","B24.P9",0.0253291420195499,6
+"206","T cell CD8+ effector memory","B24.P9",5.90281398925897e-20,6
+"207","Class-switched memory B cell","B24.P9",7.33585888370966e-19,6
+"208","Common lymphoid progenitor","B24.P9",0.00398042796954816,6
+"209","Common myeloid progenitor","B24.P9",0.00283325743701355,6
+"210","Myeloid dendritic cell","B24.P9",0.00337123819634665,6
+"211","Endothelial cell","B24.P9",0.00014208372590248,6
+"212","Eosinophil","B24.P9",7.94367685530877e-21,6
+"213","Cancer associated fibroblast","B24.P9",4.4246079965543e-22,6
+"214","Granulocyte-monocyte progenitor","B24.P9",0.000253726857549423,6
+"215","Hematopoietic stem cell","B24.P9",0.00952144968303506,6
+"216","Macrophage","B24.P9",1.11125075742425e-19,6
+"217","Macrophage M1","B24.P9",4.08939682435768e-19,6
+"218","Macrophage M2","B24.P9",0.00147994395100607,6
+"219","Mast cell","B24.P9",0.000556641234011843,6
+"220","B cell memory","B24.P9",0,6
+"221","Monocyte","B24.P9",3.146287247655e-19,6
+"222","B cell naive","B24.P9",0.000924711864230359,6
+"223","Neutrophil","B24.P9",0,6
+"224","NK cell","B24.P9",5.95358743482986e-19,6
+"225","T cell NK","B24.P9",3.50480753083998e-19,6
+"226","Plasmacytoid dendritic cell","B24.P9",1.13656921315124e-19,6
+"227","B cell plasma","B24.P9",0.00246911541308528,6
+"228","T cell gamma delta","B24.P9",4.26745471082773e-20,6
+"229","T cell CD4+ Th1","B24.P9",0.00299356730373768,6
+"230","T cell CD4+ Th2","B24.P9",0.0869281569301765,6
+"231","T cell regulatory (Tregs)","B24.P9",5.38154226558378e-20,6
+"232","immune score","B24.P9",0.0408500589590714,6
+"233","stroma score","B24.P9",7.10418629512401e-05,6
+"234","microenvironment score","B24.P9",0.0409211008220226,6
+"235","Myeloid dendritic cell activated","B25.P10",0,7
+"236","B cell","B25.P10",0.00685342404735493,7
+"237","T cell CD4+ memory","B25.P10",0.0128388896471014,7
+"238","T cell CD4+ naive","B25.P10",0.00970162222829567,7
+"239","T cell CD4+ (non-regulatory)","B25.P10",0.0337515275396002,7
+"240","T cell CD4+ central memory","B25.P10",0.0232322697793315,7
+"241","T cell CD4+ effector memory","B25.P10",0.0604524654820318,7
+"242","T cell CD8+ naive","B25.P10",0.00320019563992386,7
+"243","T cell CD8+","B25.P10",0.0166225417291164,7
+"244","T cell CD8+ central memory","B25.P10",0.0256117193214725,7
+"245","T cell CD8+ effector memory","B25.P10",0.00296073390512869,7
+"246","Class-switched memory B cell","B25.P10",0.00325028121364713,7
+"247","Common lymphoid progenitor","B25.P10",0.000717478695114946,7
+"248","Common myeloid progenitor","B25.P10",4.83495687056658e-21,7
+"249","Myeloid dendritic cell","B25.P10",0.00118887788353712,7
+"250","Endothelial cell","B25.P10",0.000206033054716718,7
+"251","Eosinophil","B25.P10",2.87676383118396e-19,7
+"252","Cancer associated fibroblast","B25.P10",0.00923318545089287,7
+"253","Granulocyte-monocyte progenitor","B25.P10",0,7
+"254","Hematopoietic stem cell","B25.P10",0.00444952808514619,7
+"255","Macrophage","B25.P10",0,7
+"256","Macrophage M1","B25.P10",0,7
+"257","Macrophage M2","B25.P10",0.00139554786783292,7
+"258","Mast cell","B25.P10",0.00191407719270118,7
+"259","B cell memory","B25.P10",0.00370314356957729,7
+"260","Monocyte","B25.P10",1.24634380761521e-18,7
+"261","B cell naive","B25.P10",0.00675155049223741,7
+"262","Neutrophil","B25.P10",0,7
+"263","NK cell","B25.P10",0,7
+"264","T cell NK","B25.P10",0.00850958100898292,7
+"265","Plasmacytoid dendritic cell","B25.P10",5.79045746180938e-07,7
+"266","B cell plasma","B25.P10",0.00359274094110854,7
+"267","T cell gamma delta","B25.P10",1.02518611530039e-19,7
+"268","T cell CD4+ Th1","B25.P10",0.01164664371885,7
+"269","T cell CD4+ Th2","B25.P10",0.153827423287408,7
+"270","T cell regulatory (Tregs)","B25.P10",0,7
+"271","immune score","B25.P10",0.0402202989282066,7
+"272","stroma score","B25.P10",0.00471960925280479,7
+"273","microenvironment score","B25.P10",0.0449399081810114,7
+"274","Myeloid dendritic cell activated","B27.P11",0.147604158625479,8
+"275","B cell","B27.P11",0.0110621119073356,8
+"276","T cell CD4+ memory","B27.P11",0.0016074338530722,8
+"277","T cell CD4+ naive","B27.P11",0.00207893077831629,8
+"278","T cell CD4+ (non-regulatory)","B27.P11",0.00546463751940491,8
+"279","T cell CD4+ central memory","B27.P11",0,8
+"280","T cell CD4+ effector memory","B27.P11",0.0113447507255597,8
+"281","T cell CD8+ naive","B27.P11",0.000128614557277625,8
+"282","T cell CD8+","B27.P11",0.00149897558534372,8
+"283","T cell CD8+ central memory","B27.P11",0.00796153250968323,8
+"284","T cell CD8+ effector memory","B27.P11",0.00307893630732081,8
+"285","Class-switched memory B cell","B27.P11",0.00542197963188868,8
+"286","Common lymphoid progenitor","B27.P11",5.21649626216935e-18,8
+"287","Common myeloid progenitor","B27.P11",0.0546690993752272,8
+"288","Myeloid dendritic cell","B27.P11",0.0174984391503577,8
+"289","Endothelial cell","B27.P11",0.00585622231158802,8
+"290","Eosinophil","B27.P11",0.00304206002284559,8
+"291","Cancer associated fibroblast","B27.P11",2.92210562782824e-18,8
+"292","Granulocyte-monocyte progenitor","B27.P11",0.254916918326295,8
+"293","Hematopoietic stem cell","B27.P11",0.0362783017528344,8
+"294","Macrophage","B27.P11",0.0186768267041075,8
+"295","Macrophage M1","B27.P11",0.0310854930281852,8
+"296","Macrophage M2","B27.P11",0,8
+"297","Mast cell","B27.P11",0.0370102774543445,8
+"298","B cell memory","B27.P11",0.00715153427673826,8
+"299","Monocyte","B27.P11",0.0427172304606967,8
+"300","B cell naive","B27.P11",0.00210849575983679,8
+"301","Neutrophil","B27.P11",0,8
+"302","NK cell","B27.P11",0,8
+"303","T cell NK","B27.P11",0.00686134047226,8
+"304","Plasmacytoid dendritic cell","B27.P11",6.81795273455571e-20,8
+"305","B cell plasma","B27.P11",0.00682837603707171,8
+"306","T cell gamma delta","B27.P11",0,8
+"307","T cell CD4+ Th1","B27.P11",0.0388201910953327,8
+"308","T cell CD4+ Th2","B27.P11",0.00652242816720095,8
+"309","T cell regulatory (Tregs)","B27.P11",1.49584177981908e-18,8
+"310","immune score","B27.P11",0.0913137058696242,8
+"311","stroma score","B27.P11",0.00292811115579401,8
+"312","microenvironment score","B27.P11",0.0942418170254182,8
+"313","Myeloid dendritic cell activated","B29.P12",3.67963417489847e-18,9
+"314","B cell","B29.P12",0,9
+"315","T cell CD4+ memory","B29.P12",0.0182303796239942,9
+"316","T cell CD4+ naive","B29.P12",0.00209964245689278,9
+"317","T cell CD4+ (non-regulatory)","B29.P12",0.0380183370748373,9
+"318","T cell CD4+ central memory","B29.P12",0.0516667198108322,9
+"319","T cell CD4+ effector memory","B29.P12",0.0768699873565142,9
+"320","T cell CD8+ naive","B29.P12",0.00348430513086591,9
+"321","T cell CD8+","B29.P12",0.0193090030411739,9
+"322","T cell CD8+ central memory","B29.P12",0.0337132244776262,9
+"323","T cell CD8+ effector memory","B29.P12",2.29431627072826e-19,9
+"324","Class-switched memory B cell","B29.P12",0,9
+"325","Common lymphoid progenitor","B29.P12",0,9
+"326","Common myeloid progenitor","B29.P12",0,9
+"327","Myeloid dendritic cell","B29.P12",0.00363997319664265,9
+"328","Endothelial cell","B29.P12",1.51294665032593e-05,9
+"329","Eosinophil","B29.P12",0,9
+"330","Cancer associated fibroblast","B29.P12",0.00980871153259652,9
+"331","Granulocyte-monocyte progenitor","B29.P12",0,9
+"332","Hematopoietic stem cell","B29.P12",0.0193812257218277,9
+"333","Macrophage","B29.P12",0,9
+"334","Macrophage M1","B29.P12",9.70231193734237e-20,9
+"335","Macrophage M2","B29.P12",0.00263692055422395,9
+"336","Mast cell","B29.P12",0.000807026175412408,9
+"337","B cell memory","B29.P12",0,9
+"338","Monocyte","B29.P12",0,9
+"339","B cell naive","B29.P12",0.00185252287123292,9
+"340","Neutrophil","B29.P12",0,9
+"341","NK cell","B29.P12",0,9
+"342","T cell NK","B29.P12",0.00343672770094925,9
+"343","Plasmacytoid dendritic cell","B29.P12",0,9
+"344","B cell plasma","B29.P12",0.00179412676398746,9
+"345","T cell gamma delta","B29.P12",0,9
+"346","T cell CD4+ Th1","B29.P12",0.0115056739048344,9
+"347","T cell CD4+ Th2","B29.P12",0.0572420128028169,9
+"348","T cell regulatory (Tregs)","B29.P12",0,9
+"349","immune score","B29.P12",0.0411828929920441,9
+"350","stroma score","B29.P12",0.00491192049954989,9
+"351","microenvironment score","B29.P12",0.046094813491594,9
+"352","Myeloid dendritic cell activated","B33.P15",0.0246735618567578,10
+"353","B cell","B33.P15",1.78417330097389e-19,10
+"354","T cell CD4+ memory","B33.P15",0.0153601524894645,10
+"355","T cell CD4+ naive","B33.P15",0.00221085263436702,10
+"356","T cell CD4+ (non-regulatory)","B33.P15",0.0252566044495443,10
+"357","T cell CD4+ central memory","B33.P15",0.0218103547085266,10
+"358","T cell CD4+ effector memory","B33.P15",0.0446809991085059,10
+"359","T cell CD8+ naive","B33.P15",0.000812218861793669,10
+"360","T cell CD8+","B33.P15",0.00106744547305286,10
+"361","T cell CD8+ central memory","B33.P15",0.0226074509872496,10
+"362","T cell CD8+ effector memory","B33.P15",0.0104288358899787,10
+"363","Class-switched memory B cell","B33.P15",9.78843744818344e-19,10
+"364","Common lymphoid progenitor","B33.P15",0,10
+"365","Common myeloid progenitor","B33.P15",0.00136568104423264,10
+"366","Myeloid dendritic cell","B33.P15",0.00322355809672357,10
+"367","Endothelial cell","B33.P15",0.00122268897805325,10
+"368","Eosinophil","B33.P15",0,10
+"369","Cancer associated fibroblast","B33.P15",4.49028525084585e-18,10
+"370","Granulocyte-monocyte progenitor","B33.P15",0.0150470720603394,10
+"371","Hematopoietic stem cell","B33.P15",0.0362942590482942,10
+"372","Macrophage","B33.P15",0.00144123174624918,10
+"373","Macrophage M1","B33.P15",0.00195776612812831,10
+"374","Macrophage M2","B33.P15",0,10
+"375","Mast cell","B33.P15",0.00830404789592139,10
+"376","B cell memory","B33.P15",0,10
+"377","Monocyte","B33.P15",0,10
+"378","B cell naive","B33.P15",8.86821159600518e-19,10
+"379","Neutrophil","B33.P15",1.12453606078268e-21,10
+"380","NK cell","B33.P15",0.0315788496819774,10
+"381","T cell NK","B33.P15",0,10
+"382","Plasmacytoid dendritic cell","B33.P15",3.05302133618266e-19,10
+"383","B cell plasma","B33.P15",0.00256766373342469,10
+"384","T cell gamma delta","B33.P15",7.50494968306558e-20,10
+"385","T cell CD4+ Th1","B33.P15",0.0797123492908686,10
+"386","T cell CD4+ Th2","B33.P15",0.0422352431233038,10
+"387","T cell regulatory (Tregs)","B33.P15",0,10
+"388","immune score","B33.P15",0.0472478248956458,10
+"389","stroma score","B33.P15",0.000611344489026628,10
+"390","microenvironment score","B33.P15",0.0478591693846725,10
+"391","Myeloid dendritic cell activated","B35.P17",4.56237010078963e-19,11
+"392","B cell","B35.P17",0.0207611993613027,11
+"393","T cell CD4+ memory","B35.P17",0.0194062427793762,11
+"394","T cell CD4+ naive","B35.P17",0.023700181200075,11
+"395","T cell CD4+ (non-regulatory)","B35.P17",0.0496874442437322,11
+"396","T cell CD4+ central memory","B35.P17",0.0529302828880448,11
+"397","T cell CD4+ effector memory","B35.P17",0.0647117498369093,11
+"398","T cell CD8+ naive","B35.P17",0.0047862117276632,11
+"399","T cell CD8+","B35.P17",0.0136821574384126,11
+"400","T cell CD8+ central memory","B35.P17",0.0286216590357382,11
+"401","T cell CD8+ effector memory","B35.P17",8.89945041407596e-19,11
+"402","Class-switched memory B cell","B35.P17",0.000343479322158975,11
+"403","Common lymphoid progenitor","B35.P17",2.0874937383105e-21,11
+"404","Common myeloid progenitor","B35.P17",3.95768276840039e-19,11
+"405","Myeloid dendritic cell","B35.P17",0,11
+"406","Endothelial cell","B35.P17",0,11
+"407","Eosinophil","B35.P17",0,11
+"408","Cancer associated fibroblast","B35.P17",0.00481106938934523,11
+"409","Granulocyte-monocyte progenitor","B35.P17",0,11
+"410","Hematopoietic stem cell","B35.P17",0.000496503691022402,11
+"411","Macrophage","B35.P17",1.98548222853296e-20,11
+"412","Macrophage M1","B35.P17",4.48641112518164e-20,11
+"413","Macrophage M2","B35.P17",0.00134300141704115,11
+"414","Mast cell","B35.P17",0.000672354851194687,11
+"415","B cell memory","B35.P17",0.00905074861794584,11
+"416","Monocyte","B35.P17",0,11
+"417","B cell naive","B35.P17",0.00909793019108608,11
+"418","Neutrophil","B35.P17",0,11
+"419","NK cell","B35.P17",7.08360624354503e-20,11
+"420","T cell NK","B35.P17",0.00524173253068617,11
+"421","Plasmacytoid dendritic cell","B35.P17",0.00154639031431823,11
+"422","B cell plasma","B35.P17",0.00834495296740565,11
+"423","T cell gamma delta","B35.P17",0,11
+"424","T cell CD4+ Th1","B35.P17",0.0486509781125174,11
+"425","T cell CD4+ Th2","B35.P17",0.0196185249244763,11
+"426","T cell regulatory (Tregs)","B35.P17",1.60726138186338e-20,11
+"427","immune score","B35.P17",0.0565354372630948,11
+"428","stroma score","B35.P17",0.00240553469467262,11
+"429","microenvironment score","B35.P17",0.0589409719577674,11
+"430","Myeloid dendritic cell activated","B36.P18",0,12
+"431","B cell","B36.P18",0.0154075000171512,12
+"432","T cell CD4+ memory","B36.P18",0.00950863780698826,12
+"433","T cell CD4+ naive","B36.P18",0.0189826347121074,12
+"434","T cell CD4+ (non-regulatory)","B36.P18",0.036535006661082,12
+"435","T cell CD4+ central memory","B36.P18",0.0383130780326607,12
+"436","T cell CD4+ effector memory","B36.P18",0.0469730000399993,12
+"437","T cell CD8+ naive","B36.P18",0.00284580939520532,12
+"438","T cell CD8+","B36.P18",0.026685007344976,12
+"439","T cell CD8+ central memory","B36.P18",0.0364366346574527,12
+"440","T cell CD8+ effector memory","B36.P18",2.05713268737683e-19,12
+"441","Class-switched memory B cell","B36.P18",1.8172271199824e-19,12
+"442","Common lymphoid progenitor","B36.P18",0.0001806771597348,12
+"443","Common myeloid progenitor","B36.P18",2.99769032612516e-19,12
+"444","Myeloid dendritic cell","B36.P18",0.001010598893018,12
+"445","Endothelial cell","B36.P18",0.000767026380043442,12
+"446","Eosinophil","B36.P18",1.38556223383476e-19,12
+"447","Cancer associated fibroblast","B36.P18",0.00525591363569286,12
+"448","Granulocyte-monocyte progenitor","B36.P18",0,12
+"449","Hematopoietic stem cell","B36.P18",0.00078446800769081,12
+"450","Macrophage","B36.P18",0,12
+"451","Macrophage M1","B36.P18",0.00083493500215058,12
+"452","Macrophage M2","B36.P18",0.00338624172127571,12
+"453","Mast cell","B36.P18",0.00102166934475053,12
+"454","B cell memory","B36.P18",0.00605296031849345,12
+"455","Monocyte","B36.P18",5.81111828649459e-20,12
+"456","B cell naive","B36.P18",0.00826483944661002,12
+"457","Neutrophil","B36.P18",7.1104121478094e-20,12
+"458","NK cell","B36.P18",0.0009182327545965,12
+"459","T cell NK","B36.P18",0.00202779521025543,12
+"460","Plasmacytoid dendritic cell","B36.P18",0.000237502270907783,12
+"461","B cell plasma","B36.P18",0.00604476085258942,12
+"462","T cell gamma delta","B36.P18",1.77026848660443e-18,12
+"463","T cell CD4+ Th1","B36.P18",0.0401884271112132,12
+"464","T cell CD4+ Th2","B36.P18",0.0177195436774989,12
+"465","T cell regulatory (Tregs)","B36.P18",7.04939573959084e-19,12
+"466","immune score","B36.P18",0.0543853433437161,12
+"467","stroma score","B36.P18",0.00301147000786815,12
+"468","microenvironment score","B36.P18",0.0573968133515843,12
+"469","Myeloid dendritic cell activated","B38.P19",0.024980067760128,13
+"470","B cell","B38.P19",0.00232181415277727,13
+"471","T cell CD4+ memory","B38.P19",0.00824817511863762,13
+"472","T cell CD4+ naive","B38.P19",0.0104692154916268,13
+"473","T cell CD4+ (non-regulatory)","B38.P19",0.0274791322759839,13
+"474","T cell CD4+ central memory","B38.P19",0.0334053180141536,13
+"475","T cell CD4+ effector memory","B38.P19",0.0676345850679591,13
+"476","T cell CD8+ naive","B38.P19",0.00258203761764584,13
+"477","T cell CD8+","B38.P19",0.0125664090906911,13
+"478","T cell CD8+ central memory","B38.P19",0.0290086355759242,13
+"479","T cell CD8+ effector memory","B38.P19",0.0159901590797169,13
+"480","Class-switched memory B cell","B38.P19",0.000557667771277215,13
+"481","Common lymphoid progenitor","B38.P19",0,13
+"482","Common myeloid progenitor","B38.P19",0,13
+"483","Myeloid dendritic cell","B38.P19",0.000722053002677012,13
+"484","Endothelial cell","B38.P19",1.06155415725236e-20,13
+"485","Eosinophil","B38.P19",6.27319084500327e-19,13
+"486","Cancer associated fibroblast","B38.P19",0.00195012656140389,13
+"487","Granulocyte-monocyte progenitor","B38.P19",0,13
+"488","Hematopoietic stem cell","B38.P19",0.000408207393431563,13
+"489","Macrophage","B38.P19",0.00185792881660734,13
+"490","Macrophage M1","B38.P19",0.00416416854109517,13
+"491","Macrophage M2","B38.P19",0.000347482978475181,13
+"492","Mast cell","B38.P19",0,13
+"493","B cell memory","B38.P19",5.83845595128105e-05,13
+"494","Monocyte","B38.P19",0.003106122290012,13
+"495","B cell naive","B38.P19",0.00360450374192178,13
+"496","Neutrophil","B38.P19",0,13
+"497","NK cell","B38.P19",0.0229446076064976,13
+"498","T cell NK","B38.P19",0.0031601690529226,13
+"499","Plasmacytoid dendritic cell","B38.P19",0.00016743931830827,13
+"500","B cell plasma","B38.P19",0.00680649042655636,13
+"501","T cell gamma delta","B38.P19",0,13
+"502","T cell CD4+ Th1","B38.P19",0.0966164962551307,13
+"503","T cell CD4+ Th2","B38.P19",0.0138983168243563,13
+"504","T cell regulatory (Tregs)","B38.P19",0,13
+"505","immune score","B38.P19",0.0473320448234975,13
+"506","stroma score","B38.P19",0.000975063280701944,13
+"507","microenvironment score","B38.P19",0.0483071081041995,13
+"508","Myeloid dendritic cell activated","B40.P20",0.00852346034438651,14
+"509","B cell","B40.P20",0.00622344378728064,14
+"510","T cell CD4+ memory","B40.P20",0.00576711641575712,14
+"511","T cell CD4+ naive","B40.P20",0.0177282397356614,14
+"512","T cell CD4+ (non-regulatory)","B40.P20",0.0348459405802912,14
+"513","T cell CD4+ central memory","B40.P20",0.0283234370494311,14
+"514","T cell CD4+ effector memory","B40.P20",0.0457844990348849,14
+"515","T cell CD8+ naive","B40.P20",0.00339940729234639,14
+"516","T cell CD8+","B40.P20",0.0353602501796091,14
+"517","T cell CD8+ central memory","B40.P20",0.05008149233771,14
+"518","T cell CD8+ effector memory","B40.P20",0.00827778697651732,14
+"519","Class-switched memory B cell","B40.P20",2.28284793916802e-19,14
+"520","Common lymphoid progenitor","B40.P20",0,14
+"521","Common myeloid progenitor","B40.P20",0,14
+"522","Myeloid dendritic cell","B40.P20",0.000733589327586087,14
+"523","Endothelial cell","B40.P20",0,14
+"524","Eosinophil","B40.P20",0,14
+"525","Cancer associated fibroblast","B40.P20",0.00277326497249293,14
+"526","Granulocyte-monocyte progenitor","B40.P20",0,14
+"527","Hematopoietic stem cell","B40.P20",1.48125695344816e-19,14
+"528","Macrophage","B40.P20",0.00047186242117334,14
+"529","Macrophage M1","B40.P20",0.0016224244457624,14
+"530","Macrophage M2","B40.P20",0.00197382591118627,14
+"531","Mast cell","B40.P20",4.40327510038989e-20,14
+"532","B cell memory","B40.P20",0.00148502453904523,14
+"533","Monocyte","B40.P20",1.97248536219451e-19,14
+"534","B cell naive","B40.P20",0.00350503706354705,14
+"535","Neutrophil","B40.P20",3.74244086041512e-19,14
+"536","NK cell","B40.P20",0.00623992116846317,14
+"537","T cell NK","B40.P20",0.00281235781087057,14
+"538","Plasmacytoid dendritic cell","B40.P20",0.000975546108878905,14
+"539","B cell plasma","B40.P20",0.00648646087090803,14
+"540","T cell gamma delta","B40.P20",0,14
+"541","T cell CD4+ Th1","B40.P20",0.0845513661476397,14
+"542","T cell CD4+ Th2","B40.P20",0,14
+"543","T cell regulatory (Tregs)","B40.P20",1.84302543153349e-18,14
+"544","immune score","B40.P20",0.0559166716429357,14
+"545","stroma score","B40.P20",0.00138663248624646,14
+"546","microenvironment score","B40.P20",0.0573033041291822,14
+"547","Myeloid dendritic cell activated","B40.P21",2.17271714778474e-18,15
+"548","B cell","B40.P21",0.03268147729592,15
+"549","T cell CD4+ memory","B40.P21",0.00171803615497599,15
+"550","T cell CD4+ naive","B40.P21",0.0380420868536153,15
+"551","T cell CD4+ (non-regulatory)","B40.P21",0.0314352496860489,15
+"552","T cell CD4+ central memory","B40.P21",0.0298354413093773,15
+"553","T cell CD4+ effector memory","B40.P21",0.0178400981751569,15
+"554","T cell CD8+ naive","B40.P21",0.000748591567565619,15
+"555","T cell CD8+","B40.P21",0.0454074770702168,15
+"556","T cell CD8+ central memory","B40.P21",0.0445648431784166,15
+"557","T cell CD8+ effector memory","B40.P21",0,15
+"558","Class-switched memory B cell","B40.P21",0,15
+"559","Common lymphoid progenitor","B40.P21",9.03359338445222e-21,15
+"560","Common myeloid progenitor","B40.P21",0.00109348900944995,15
+"561","Myeloid dendritic cell","B40.P21",0,15
+"562","Endothelial cell","B40.P21",0.00151152176360758,15
+"563","Eosinophil","B40.P21",2.05696094931349e-18,15
+"564","Cancer associated fibroblast","B40.P21",0,15
+"565","Granulocyte-monocyte progenitor","B40.P21",0.00449967598730562,15
+"566","Hematopoietic stem cell","B40.P21",0.0389580763051491,15
+"567","Macrophage","B40.P21",0.00180086079313205,15
+"568","Macrophage M1","B40.P21",0.0121845167221393,15
+"569","Macrophage M2","B40.P21",0.00042052327870573,15
+"570","Mast cell","B40.P21",0.00254886085971355,15
+"571","B cell memory","B40.P21",0.00601059072450321,15
+"572","Monocyte","B40.P21",0.0181160288100931,15
+"573","B cell naive","B40.P21",0.0124973661336747,15
+"574","Neutrophil","B40.P21",5.8334324789315e-21,15
+"575","NK cell","B40.P21",0,15
+"576","T cell NK","B40.P21",0,15
+"577","Plasmacytoid dendritic cell","B40.P21",1.18958007966262e-18,15
+"578","B cell plasma","B40.P21",0.00433081653201401,15
+"579","T cell gamma delta","B40.P21",0,15
+"580","T cell CD4+ Th1","B40.P21",0.0181955196909336,15
+"581","T cell CD4+ Th2","B40.P21",0,15
+"582","T cell regulatory (Tregs)","B40.P21",0,15
+"583","immune score","B40.P21",0.087993303010083,15
+"584","stroma score","B40.P21",0.00075576088180379,15
+"585","microenvironment score","B40.P21",0.0887490638918867,15
+"586","Myeloid dendritic cell activated","B41.P22",1.71351645548107e-18,16
+"587","B cell","B41.P22",0.138011142921379,16
+"588","T cell CD4+ memory","B41.P22",0,16
+"589","T cell CD4+ naive","B41.P22",0.0362283679058241,16
+"590","T cell CD4+ (non-regulatory)","B41.P22",0.0233612315040441,16
+"591","T cell CD4+ central memory","B41.P22",0.0436172972051815,16
+"592","T cell CD4+ effector memory","B41.P22",0.00386025809282275,16
+"593","T cell CD8+ naive","B41.P22",0.00096430142066273,16
+"594","T cell CD8+","B41.P22",0.0437616168291043,16
+"595","T cell CD8+ central memory","B41.P22",0.0244932308282172,16
+"596","T cell CD8+ effector memory","B41.P22",1.41748797527941e-18,16
+"597","Class-switched memory B cell","B41.P22",0.00493531567337524,16
+"598","Common lymphoid progenitor","B41.P22",0,16
+"599","Common myeloid progenitor","B41.P22",1.5328459945909e-18,16
+"600","Myeloid dendritic cell","B41.P22",0,16
+"601","Endothelial cell","B41.P22",2.29110518209105e-19,16
+"602","Eosinophil","B41.P22",1.58132713675492e-20,16
+"603","Cancer associated fibroblast","B41.P22",2.74678933190278e-18,16
+"604","Granulocyte-monocyte progenitor","B41.P22",2.22009411790595e-18,16
+"605","Hematopoietic stem cell","B41.P22",0.000484818710222944,16
+"606","Macrophage","B41.P22",0.010071503839484,16
+"607","Macrophage M1","B41.P22",0.0127522822599424,16
+"608","Macrophage M2","B41.P22",0.00558535624647482,16
+"609","Mast cell","B41.P22",0.00193860735722343,16
+"610","B cell memory","B41.P22",0.0617050553250293,16
+"611","Monocyte","B41.P22",0.0416574634002311,16
+"612","B cell naive","B41.P22",0.0427790560551983,16
+"613","Neutrophil","B41.P22",0,16
+"614","NK cell","B41.P22",0,16
+"615","T cell NK","B41.P22",1.66190497665761e-20,16
+"616","Plasmacytoid dendritic cell","B41.P22",1.49744777652203e-18,16
+"617","B cell plasma","B41.P22",0.00492525200255153,16
+"618","T cell gamma delta","B41.P22",4.93818220429126e-19,16
+"619","T cell CD4+ Th1","B41.P22",0,16
+"620","T cell CD4+ Th2","B41.P22",2.66402009267448e-18,16
+"621","T cell regulatory (Tregs)","B41.P22",1.00913643558643e-18,16
+"622","immune score","B41.P22",0.17253437723431,16
+"623","stroma score","B41.P22",1.58569413946704e-18,16
+"624","microenvironment score","B41.P22",0.17253437723431,16

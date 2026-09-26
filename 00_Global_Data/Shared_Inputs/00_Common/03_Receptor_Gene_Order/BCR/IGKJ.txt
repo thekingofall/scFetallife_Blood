@@ -1,0 +1,6 @@
+IMGT gene name	IMGT gene order
+IGKJ1	77
+IGKJ2	78
+IGKJ3	79
+IGKJ4	80
+IGKJ5	81
