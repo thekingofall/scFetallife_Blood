@@ -1,6 +1,6 @@
 # Data and analysis setup
 
-Study data are deposited in [Figshare: 10.6084/m9.figshare.34003890](https://doi.org/10.6084/m9.figshare.34003890). The Figshare dataset will be made publicly available upon publication of the associated article. The cell atlas `00_Global_Data/Fetal_Immune_Atlas.h5ad` is included through Git LFS. Download the TCR/BCR h5ad objects, flow-cytometry proportions and Olink NPX workbook from Figshare into `00_Global_Data`, keeping their filenames. The sample metadata, single-cell pseudobulk TPM and PHA bulk TPM tables are included in this repository under `00_Global_Data`.
+Study data are deposited in [Figshare: 10.6084/m9.figshare.34003890](https://doi.org/10.6084/m9.figshare.34003890). The Figshare dataset will be made publicly available upon publication of the associated article. Download the cell atlas (`Fetal_Immune_Atlas.h5ad`), TCR/BCR h5ad objects, flow-cytometry proportions and Olink NPX workbook from Figshare into `00_Global_Data`, keeping their filenames. The sample metadata, single-cell pseudobulk TPM and PHA bulk TPM tables are included in this repository under `00_Global_Data`.
 
 For flow-cytometry preprocessing, download all five FCS ZIP files from the Figshare record and extract each into `00_Global_Data/Flow_Data`. The archives contain the `fetal flow data/fcs blood` and `fetal flow data/fcs organ` directories. Place the three additional files in `00_Global_Data/Flow_Data/fetal flow data` with these names:
 
@@ -10,7 +10,7 @@ For flow-cytometry preprocessing, download all five FCS ZIP files from the Figsh
 | `Fetal_Immune_Atlas_Flow_Organs_24Color.wsp` | `24color 20240526 organ.wsp` |
 | `Fetal_Immune_Atlas_Flow_Sample_Metadata.xlsx` | `fetal sample information of spectral flow data.xlsx` |
 
-The cell atlas h5ad and the six larger CellChat and NK trajectory objects in `00_Global_Data/Shared_Inputs` use Git LFS. Install [Git LFS](https://git-lfs.com), then run the following commands in the cloned repository:
+The six larger CellChat and NK trajectory objects in `00_Global_Data/Shared_Inputs` use Git LFS. Install [Git LFS](https://git-lfs.com), then run the following commands in the cloned repository:
 
 ```sh
 git lfs install

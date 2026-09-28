@@ -36,6 +36,12 @@ save_plot_pair <- function(plot, directory, stem, width, height, dpi = 320) {
 
 
 f7b <- read_csv(file.path(input_dir, "M07b_Selected_Plasma_Protein_NPX.csv"), show_col_types = FALSE)
+plasma_stats <- read_tsv(file.path(input_dir, "M07a_Plasma_Protein_Age_Statistics.tsv"), show_col_types = FALSE)
+stat_index <- match(f7b$protein, plasma_stats$feature_display)
+stopifnot(!anyDuplicated(plasma_stats$feature_display), !anyNA(stat_index))
+f7b$rho <- plasma_stats$rho[stat_index]
+f7b$p_value <- plasma_stats$p_value[stat_index]
+f7b$q_value_BH_76 <- plasma_stats$q_value_BH_family[stat_index]
 
 f7b_stats <- f7b %>%
   distinct(protein, rho, p_value, q_value_BH_76) %>%
