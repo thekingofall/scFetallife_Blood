@@ -16,32 +16,32 @@ Treg and Vδ2 cell abundance declines with age, whereas Vδ1 cells and classical
 
 | Figure | Analysis |
 |---|---|
-| [Figure 1](Main_Figure_01) | Blood and tissue cell atlas, sample coverage and cell composition |
-| [Figure 2](Main_Figure_02) | Age-associated cell composition and transcriptional programs |
-| [Figure 3](Main_Figure_03) | Developmental changes in inferred cell–cell communication |
-| [Figure 4](Main_Figure_04) | TCR gene usage, CDR3 composition and clonotypes |
-| [Figure 5](Main_Figure_05) | BCR gene usage, CDR3 composition, isotypes and clonotypes |
-| [Figure 6](Main_Figure_06) | Spectral flow-cytometry populations and age associations |
-| [Figure 7](Main_Figure_07) | Plasma proteins and stimulated-PBMC responses |
-| [Figure 8](Main_Figure_08) | MOFA integration and the fetal blood developmental factor |
-| [Supplementary Figure 1](Supplementary_Figures/Supplementary_Figure_01) | Cell-type marker expression and weighted abundance across tissues |
-| [Supplementary Figure 2](Supplementary_Figures/Supplementary_Figure_02) | Tissue-specific UMAPs of blood, liver, thymus and spleen cells |
-| [Supplementary Figure 3](Supplementary_Figures/Supplementary_Figure_03) | Cell-lineage UMAPs and TCR/BCR detection in the atlas |
-| [Supplementary Figure 4](Supplementary_Figures/Supplementary_Figure_04) | Gene expression programs during erythropoiesis |
-| [Supplementary Figure 5](Supplementary_Figures/Supplementary_Figure_05) | Integration and cell-composition comparison of fetal and cord blood |
-| [Supplementary Figure 6](Supplementary_Figures/Supplementary_Figure_06) | Differential expression and pathway enrichment in CXCR5-positive and CXCR5-negative naive B cells across tissues |
-| [Supplementary Figure 7](Supplementary_Figures/Supplementary_Figure_07) | NK-cell RNA velocity and CellRank transition probabilities |
-| [Supplementary Figure 8](Supplementary_Figures/Supplementary_Figure_08) | NicheNet ligand–receptor interaction potentials in CX3CR1-positive and CXCR6-positive NK cells |
-| [Supplementary Figure 9](Supplementary_Figures/Supplementary_Figure_09) | Early–late differences in incoming signaling to naive CD8 T and NKT cells |
-| [Supplementary Figure 10](Supplementary_Figures/Supplementary_Figure_10) | Age-associated changes in TRA and TRB CDR3 segment lengths |
-| [Supplementary Figure 11](Supplementary_Figures/Supplementary_Figure_11) | TCR clonal expansion and clonotype distribution across samples, tissues and cell types |
-| [Supplementary Figure 12](Supplementary_Figures/Supplementary_Figure_12) | Age-associated changes in IGH, IGK and IGL CDR3 segment lengths |
-| [Supplementary Figure 13](Supplementary_Figures/Supplementary_Figure_13) | Spectral flow-cytometry gating strategies and immune-cell hierarchy |
-| [Supplementary Figure 14](Supplementary_Figures/Supplementary_Figure_14) | Spectral flow-cytometry UMAPs by tissue and sample |
-| [Supplementary Figure 15](Supplementary_Figures/Supplementary_Figure_15) | Comparison of cell-type composition measured by spectral flow cytometry and scRNA-seq |
-| [Supplementary Figure 16](Supplementary_Figures/Supplementary_Figure_16) | Age associations of Olink-panel gene expression in stimulated-PBMC bulk RNA-seq |
-| [Supplementary Figure 17](Supplementary_Figures/Supplementary_Figure_17) | Temporal expression programs and GO enrichment in stimulated PBMCs |
-| [Supplementary Figure 18](Supplementary_Figures/Supplementary_Figure_18) | Top positive and negative MOFA Factor 3 feature weights across data modalities |
+| [Fig.&nbsp;1](Main_Figure_01) | Blood and tissue cell atlas, sample coverage and cell composition |
+| [Fig.&nbsp;2](Main_Figure_02) | Age-associated cell composition and transcriptional programs |
+| [Fig.&nbsp;3](Main_Figure_03) | Developmental changes in inferred cell–cell communication |
+| [Fig.&nbsp;4](Main_Figure_04) | TCR gene usage, CDR3 composition and clonotypes |
+| [Fig.&nbsp;5](Main_Figure_05) | BCR gene usage, CDR3 composition, isotypes and clonotypes |
+| [Fig.&nbsp;6](Main_Figure_06) | Spectral flow-cytometry populations and age associations |
+| [Fig.&nbsp;7](Main_Figure_07) | Plasma proteins and stimulated-PBMC responses |
+| [Fig.&nbsp;8](Main_Figure_08) | MOFA integration and the fetal blood developmental factor |
+| [Fig.&nbsp;S1](Supplementary_Figures/Supplementary_Figure_01) | Cell-type marker expression and weighted abundance across tissues |
+| [Fig.&nbsp;S2](Supplementary_Figures/Supplementary_Figure_02) | Tissue-specific UMAPs of blood, liver, thymus and spleen cells |
+| [Fig.&nbsp;S3](Supplementary_Figures/Supplementary_Figure_03) | Cell-lineage UMAPs and TCR/BCR detection in the atlas |
+| [Fig.&nbsp;S4](Supplementary_Figures/Supplementary_Figure_04) | Gene expression programs during erythropoiesis |
+| [Fig.&nbsp;S5](Supplementary_Figures/Supplementary_Figure_05) | Integration and cell-composition comparison of fetal and cord blood |
+| [Fig.&nbsp;S6](Supplementary_Figures/Supplementary_Figure_06) | Differential expression and pathway enrichment in CXCR5-positive and CXCR5-negative naive B cells across tissues |
+| [Fig.&nbsp;S7](Supplementary_Figures/Supplementary_Figure_07) | NK-cell RNA velocity and CellRank transition probabilities |
+| [Fig.&nbsp;S8](Supplementary_Figures/Supplementary_Figure_08) | NicheNet ligand–receptor interaction potentials in CX3CR1-positive and CXCR6-positive NK cells |
+| [Fig.&nbsp;S9](Supplementary_Figures/Supplementary_Figure_09) | Early–late differences in incoming signaling to naive CD8 T and NKT cells |
+| [Fig.&nbsp;S10](Supplementary_Figures/Supplementary_Figure_10) | Age-associated changes in TRA and TRB CDR3 segment lengths |
+| [Fig.&nbsp;S11](Supplementary_Figures/Supplementary_Figure_11) | TCR clonal expansion and clonotype distribution across samples, tissues and cell types |
+| [Fig.&nbsp;S12](Supplementary_Figures/Supplementary_Figure_12) | Age-associated changes in IGH, IGK and IGL CDR3 segment lengths |
+| [Fig.&nbsp;S13](Supplementary_Figures/Supplementary_Figure_13) | Spectral flow-cytometry gating strategies and immune-cell hierarchy |
+| [Fig.&nbsp;S14](Supplementary_Figures/Supplementary_Figure_14) | Spectral flow-cytometry UMAPs by tissue and sample |
+| [Fig.&nbsp;S15](Supplementary_Figures/Supplementary_Figure_15) | Comparison of cell-type composition measured by spectral flow cytometry and scRNA-seq |
+| [Fig.&nbsp;S16](Supplementary_Figures/Supplementary_Figure_16) | Age associations of Olink-panel gene expression in stimulated-PBMC bulk RNA-seq |
+| [Fig.&nbsp;S17](Supplementary_Figures/Supplementary_Figure_17) | Temporal expression programs and GO enrichment in stimulated PBMCs |
+| [Fig.&nbsp;S18](Supplementary_Figures/Supplementary_Figure_18) | Top positive and negative MOFA Factor 3 feature weights across data modalities |
 
 Supplementary analyses are grouped in [Supplementary_Figures](Supplementary_Figures), with one folder for each of Supplementary Figures 1–18. The [panel index](00_Settings/00_Panel_Code_Index.tsv) lists all panel directories. Each panel has analysis scripts in `01_Code`. Its README links to the plotting tables in `00_Global_Data/Shared_Inputs` and lists additional inputs in `03_PlotData`.
 
