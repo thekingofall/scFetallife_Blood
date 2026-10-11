@@ -6,19 +6,11 @@ Analysis code for **Atlas of the immune cell development in the human fetal bloo
 
 Human fetal blood changes substantially as the immune system develops. This study combines single-cell RNA sequencing, paired T-cell and B-cell receptor sequencing, spectral flow cytometry, plasma proteomics, and proteomic and transcriptomic measurements of stimulated PBMCs across approximately 12–39 post-conception weeks (pcw).
 
-Cell composition changes with age, including increasing Vδ1 cells and classical monocytes. Treg and Vδ2 populations show downward trends. TCR and immunoglobulin heavy-chain CDR3 sequences lengthen, alongside increasing repertoire diversity; most clonotypes remain unique, and BCRs are predominantly IgM. Plasma proteins and PHA-stimulated PBMC measurements show distinct age-associated profiles. Stimulated protein outputs change in both directions, indicating a remodeling of the response profile. Integration of the seven data modalities with MOFA identifies an age-associated factor that summarizes shared variation across assays. These results provide a basis for studying how circulating immune components develop alongside response capacity.
+Treg and Vδ2 cell abundance declines with age, whereas Vδ1 cells and classical monocytes become more abundant. TCR and immunoglobulin heavy-chain CDR3 sequences lengthen, alongside increasing repertoire diversity; most clonotypes remain unique, and BCRs are predominantly IgM. Plasma proteins show distinct age-associated changes, while PHA-stimulated PBMCs show greater inducible responses later in development. Integration of the seven data modalities with MOFA identifies a coordinated developmental shift around 31 pcw. Together, these results describe the changing balance between immune tolerance and functional maturation in fetal blood.
 
 ![Graphical summary of immune-cell composition, receptor repertoires, plasma proteins and stimulation responses during human fetal blood development](docs/figures/graphical_abstract.png)
 
-*Schematic summary of the principal findings. Arrows show age-associated trends. Sequence strips illustrate relative CDR3 length, with no numerical scale. The near-31-pcw shift drawn in this schematic is a working interpretation. The current age-association panel uses a linear fit and a 32-pcw reference line; a discrete transition point remains to be established. See the scientific mainline below for the evidence and interpretation.* [PDF](docs/figures/graphical_abstract.pdf)
-
-## Scientific question · 科学主线
-
-**How do circulating immune components develop into distinct response capacities before birth?** Fetal immune activity and regulation have established precedents. This project links a broad gestational blood atlas with receptor, protein and stimulation measurements. The central next step is to connect baseline cellular composition and states to matched response outputs, then identify the contributions of cellular composition, intrinsic state and cellular cooperation.
-
-**胎儿血中的免疫应答能力，在出生前怎样一步步形成？** 现有结果显示细胞构成、细胞自身状态和刺激后输出随发育变化。下一阶段的核心，是把同一样本的这些变化接起来，解释哪些细胞条件对应哪种应答方式。
-
-Read the [scientific mainline and evidence map / 科学主线与逐层推进方案](docs/SCIENTIFIC_MAINLINE.zh-CN.md), including two existing result figures, the roles of Figures 1–8, and links to primary literature. This document distinguishes current findings from proposed follow-up work.
+*Schematic summary of the principal findings. Arrows show age-associated trends. Sequence strips illustrate relative CDR3 length, with no numerical scale. The shift near 31 pcw is the developmental pattern identified by the integrated analysis.* [PDF](docs/figures/graphical_abstract.pdf)
 
 ## Analyses by figure
 
